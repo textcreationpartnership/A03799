@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The covenant of grace, and seales thereof plainely opened by way of question and answer. Whereunto is annexed, godly instructions, shewing how to put every petition of the Lords Prayer into practice, and how to make some spirituall use of the things that wee shall see or heare. Set forth for the benefit of the inhabitants of the Summer Ilands. By Lewis Hughes, sometimes minister of Gods word in the said ilands.</title>
+            <author>Hughes, Lewes, fl. 1620.</author>
+         </titleStmt>
+         <extent>Approx. 119KB of XML-encoded text transcribed from 123 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A03799</idno><idno type="EEBO-CITATION">99856117</idno>
+  <idno type="VID">21639</idno>
+  <idno type="EEBO-PROQUEST">2240860341</idno>
+  <idno type="STC">STC 13918</idno>
+  <idno type="STC">ESTC S120924</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99856117e"/>
+            <note>(EEBO-TCP ; phase 2, no. A03799)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 21639)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1576:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The covenant of grace, and seales thereof plainely opened by way of question and answer. Whereunto is annexed, godly instructions, shewing how to put every petition of the Lords Prayer into practice, and how to make some spirituall use of the things that wee shall see or heare. Set forth for the benefit of the inhabitants of the Summer Ilands. By Lewis Hughes, sometimes minister of Gods word in the said ilands.</title>
+                  <author>Hughes, Lewes, fl. 1620.</author>
+                  <author>Marshall, William, fl. 1617-1650, engraver.</author>
+               </titleStmt>
+               <extent>[234] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Tho. Payne for N Bourne, dwelling at the South Entrance of the Royall Exchange,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1640.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-I¹² , K.</note>
+                  <note>Running title reads: The covenant of grace.</note>
+                  <note>With an added title page engraved by W. Marshall.</note>
+                  <note>Imperfect; F12 lacking.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Lord's prayer --  Early works to 1800.</term>
+               <term type="topical_term">Catechisms, English --  Early works to 1800.</term>
+               <term type="topical_term">Grace (Theology) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:21639:1"/>
+            <pb facs="tcp:21639:1"/>
+            <p>
+               <figure>
+                  <p>THE Covenant <hi>of</hi> Grace <hi>and</hi> Seales <hi>thereof plainely opened by way of Question and Answer.</hi>
+                  </p>
+                  <p>
+                     <hi>With Instructions to Ground our Petitions upon the Lords Prayer.</hi>
+                  </p>
+                  <p>
+                     <hi>by Lewes Hughes.</hi>
+                  </p>
+                  <p>
+                     <hi>Printed for N. Bourne at the Exchange.</hi> 1640.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:21639:2"/>
+            <pb facs="tcp:21639:2"/>
+            <p>THE COVENANT OF GRACE AND Seales thereof; plainely opened by way of Question and Answer.</p>
+            <p>Whereunto is annexed, godly instructions, shewing how to put every Petition of the Lords Prayer into practice, and how to make some spi<g ref="char:EOLhyphen"/>rituall use of the things that wee shall see or heare.</p>
+            <p>Set forth for the benefit of the Inhabitants of the <hi>Summer Ilands.</hi>
+            </p>
+            <p>By <hi>Lewis Hughes,</hi> sometimes Minister of Gods Word in the said Ilands.</p>
+            <p>Printed at LONDON by <hi>Tho. Payne</hi> for <hi>N Bourne,</hi> dwelling at the South En<g ref="char:EOLhyphen"/>trance of the Royall Exchange. 1640.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:21639:3"/>
+            <pb facs="tcp:21639:3"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Hristian Reader, if thou wouldst be strengthned in thy faith, and be able (by the grace of God) to re<g ref="char:EOLhyphen"/>sist Satan when hee shall put into thy heart any fearefull thought ten<g ref="char:EOLhyphen"/>ding to despaire, have this little Booke al<g ref="char:EOLhyphen"/>waies in thy pocket, to read at leasure-times, and marke wel what thou rea<g ref="char:EOLunhyphen"/>dest, concerning the Co<g ref="char:EOLhyphen"/>venant
+<pb facs="tcp:21639:4"/>of grace and seales thereof, which you shall find plainely opened, and pray to God for an un<g ref="char:EOLhyphen"/>derstanding heart.</p>
+            <closer>
+               <signed>
+                  <hi>Thine in the Lord JESVS,</hi> L. H.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:21639:4"/>
+            <head>THE COVENANT of Grace plainely opened, by way of Question and Answer.</head>
+            <p>Q. 1. <hi>SIR, I pray you, shew mee what the Covenant of Grace is, that God hath made with his elect children?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That you may the better understand, what the Covenant or grace is
+<pb facs="tcp:21639:5"/>and upon what occasion God did make it, I hold it needefull, that I speake first, of the Creation of <hi>Adam</hi> and <hi>Evah,</hi> and of their fall from that good estate, wherin they were created, and of the wrath and cu se of God that they brought upon them selves and upon all man<g ref="char:EOLhyphen"/>kind.</p>
+            <p>Q. 2. <hi>Doe so, I pray you, and first tell mee, to whom did God speake, when hee said, Let us make man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There was then no creature for God to speak unto: The meaning is,
+<pb facs="tcp:21639:5"/>that the holy Trinitie did then consult about the making of man, that he might excel all world<g ref="char:EOLhyphen"/>ly creatures.</p>
+            <p>Q. 3. <hi>Wherein was man made to excell all creatures?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In knowledge, in holinesse, and in righte<g ref="char:EOLhyphen"/>ousnesse, after the Image of God, <hi>Col.</hi> 3.18. <hi>Ephes.</hi> 4.24.</p>
+            <p>Q. 4. <hi>Whereof did God make Adam?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God made his bo<g ref="char:EOLhyphen"/>dy of the dust of the earth, and breathed into him the breath of life, <hi>Gen.</hi> 2.7.</p>
+            <pb facs="tcp:21639:6"/>
+            <p> Qu. 5. <hi>What is meant by the breath of life?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the breath of life, is meant the soule.</p>
+            <p>Qu. 6. <hi>Why is the soule called the breath of life?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is called the breath or spirit of life, be<g ref="char:EOLhyphen"/>cause it is an everlasting spirit that giveth life to every part of the body.</p>
+            <p>Q. 7. <hi>Whereof was Evah made?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> She was made of one of <hi>Adams</hi> ribbes.</p>
+            <p>Q. 8. <hi>When was she made?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> When God brought
+<pb facs="tcp:21639:6"/>the fowles of the ayre, and beasts of the field to <hi>Adam,</hi> to see how hee would name them, they were brought by couples, male and female, so as e<g ref="char:EOLhyphen"/>very male had a female, to be an helpe fit for it, onely <hi>Adam</hi> was alone; then God seeing that e<g ref="char:EOLhyphen"/>very male had an help fit for it, and that among them all he found not an helpe meete for Adam; therefore God caused an heavie sleep to come up<g ref="char:EOLhyphen"/>on Adam, and then took out one of his ribbes, and thereof made <hi>Evah,</hi> and brought her to him, and bestowed her upon him
+<pb facs="tcp:21639:7"/>in marriage, <hi>Gen.</hi> 2.20, 21, 22.</p>
+            <p>Q. 9. <hi>What did God for them in their marri<g ref="char:EOLhyphen"/>age?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> As in their creation God blessed them with spirituall blessings of knowledge, holinesses &amp; righteousnesse, so in their marriage God blessed them with temporall blessings; as first, with power to bring forth chil<g ref="char:EOLhyphen"/>dren: Secondly, with power to till and to sub<g ref="char:EOLhyphen"/>due the earth, that is, to build and plant in it: Thirdly, with power and dominion over the fowls
+<pb facs="tcp:21639:7"/>of the ayre, the fishes of the Sea, the beasts of the field, and over every thing that creepeth and moveth on the earth.</p>
+            <p>Also, God did make a legall covenant with them, and in them with all mankinde, wherein he did promise and grant, that they &amp; all mankind should continue in his love and favour, so long as they continued in per<g ref="char:EOLhyphen"/>fect obedience unto his Law.</p>
+            <p>Qu. 10. <hi>What dwel<g ref="char:EOLhyphen"/>ling place did God pro<g ref="char:EOLhyphen"/>vide for them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God did provide a
+<pb facs="tcp:21639:8"/>sweet dwelling place for them, in a pleasant Gar<g ref="char:EOLhyphen"/>den, called Paradise, and as soon as they were set<g ref="char:EOLhyphen"/>led in Paradise, God left them to themselves with free will to do what plea<g ref="char:EOLhyphen"/>sed them; even as a lo<g ref="char:EOLhyphen"/>ving father, after he hath bestowed his children in marriage, and given them their portions, doth then leave them to themselvs, to see what course they will take.</p>
+            <p>Qu. 11. <hi>What assu<g ref="char:EOLhyphen"/>rance did God make thē of their continuance in his love and favour, and in all worldly happinesse
+<pb facs="tcp:21639:8"/>so long as they did conti<g ref="char:EOLhyphen"/>nue in perfect obedience unto his Law?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God did plant a Tree in the midst of the Garden, called the Tree of life, to be a Sacrament, to strengthen their faith in the Covenant, and con<g ref="char:EOLhyphen"/>tinuance in his love and favour, and all worldly happinesse, so long as they continued in perfect obedience to all his Com<g ref="char:EOLhyphen"/>mandements.</p>
+            <p>Qu. 12. <hi>What tryall did God make of their o<g ref="char:EOLhyphen"/>bedience?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> For tryall of their obedience, God planted
+<pb facs="tcp:21639:9"/>another Tree, called the Tree of knowledge of good and evill, and gave them charge not to eate thereof, upon paine of death.</p>
+            <p>Qu. 13. <hi>How came they to eate of the fruit of the Tree?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They were no sooner left to themselves, but the Devill (envying their happinesse) came cunningly in the Serpent, and tempted <hi>Evah,</hi> and drew her to eate, and to give to her husband, and to draw him to eate, and so to breake the Cove<g ref="char:EOLhyphen"/>nant, and make way for
+<pb facs="tcp:21639:9"/>the wrath and curse of God to come upon them, and upon all mankinde, because all were then, in them, and were all cor<g ref="char:EOLhyphen"/>rupted and made sinfull, by their being in them.</p>
+            <p>Qu. 14. <hi>How could all mankind be in them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I will make it plaine unto you by a fa<g ref="char:EOLhyphen"/>miliar comparison: take the kernell of an Apple, and set it where it may grow to be a tree, bea<g ref="char:EOLhyphen"/>ring fruit; that tree will bring forth many apples, and every apple many kernels, which if they also be set where they may
+<pb facs="tcp:21639:10"/>grow to be trees, bearing fruit, will bring forth many apples, and every apple many kernels; yea, innumerable, which though in time they com to be innumerable, were all at first, in, and come out of one kernell: even so mankind, though now innumerable, were all at first in <hi>Adam</hi> and <hi>Evah.</hi>
+            </p>
+            <p>Q. 15. <hi>It is written, that the eyes of Adam &amp; Evah were opened, as soone as they had eaten: were they blinde till then?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, the meaning is, that as soone as they
+<pb facs="tcp:21639:10"/>both had eaten, God did take from them all their glory and happinesse, wherein they lived, and left them to themselves, naked, in shame and sor<g ref="char:EOLhyphen"/>row, ready to perish.</p>
+            <p>Q. 16. <hi>It is written, that they heard the voyce of the Lord walking in the Garden, in the coole of the day: what is meant by the walking of the voyce?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The meaning is, that the voyce seemed, at the first, to be farre off, and to come neerer and neerer, as thunder which is called the voyce of the
+<pb facs="tcp:21639:11"/>Lord, <hi>Psal.</hi> 29. doth som<g ref="char:EOLhyphen"/>times begin farre off, and commeth neerer and nee<g ref="char:EOLhyphen"/>rer.</p>
+            <p>Q. 17. <hi>What did they when they heard the voyce of the Lord?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They hid them<g ref="char:EOLhyphen"/>selves among the Trees, which sheweth, that the natur of sin is to wound the conscience, and that a wounded conscience will accuse and torment a man with shame and feare, and cause him to despaire and flee from God.</p>
+            <p>Q. 18. <hi>What did God to them, when they hid
+<pb facs="tcp:21639:11"/>themselves?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God called to A<g ref="char:EOLhyphen"/>dam, saying, where art thou?</p>
+            <p>Q. 19. <hi>What answer did Adam make?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Adam answered, saying, I heard thy voice in the garden, and was a<g ref="char:EOLhyphen"/>fraid because I was naked therefore I hid my selfe, whereupon God said unto him, who told thee that thou was naked? Hast thou eaten of the Tree, whereof I commanded thee that thou shouldst not eate?</p>
+            <p>Q. 20. <hi>What answer did Adam make?</hi>
+            </p>
+            <pb facs="tcp:21639:12"/>
+            <p>
+               <hi>A.</hi> Adam answered, saying, the woman that thou gavest to be with me, shee gave me, and I did eate.</p>
+            <p>Q. 21. <hi>What said God to the woman?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God asked her why she had done so.</p>
+            <p>Q. 22. <hi>What answer did she make?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> She (to excuse her selfe) laid all the fault up<g ref="char:EOLhyphen"/>on the Serpent, saying, the Serpent beguiled me, and I did eate.</p>
+            <p>Q. 23. <hi>What doe you observe in their answers.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That such as are void of the feare of God,
+<pb facs="tcp:21639:12"/>and of a good conscience, will smoulder and hide their faults, and excuse themselves by accusing others.</p>
+            <p>Q 24. <hi>What said God to the Serpent?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God did not vouch<g ref="char:EOLhyphen"/>safe to speake to the Ser<g ref="char:EOLhyphen"/>pent, but did presently lay his curse upon her, saying, because thou hast done this, cursed art thou above all Cattell; upon thy belly shalt thou goe, and dust shalt thou eate all the dayes of thy life: I will also put enmity be<g ref="char:EOLhyphen"/>tweene thee and the wo<g ref="char:EOLhyphen"/>man, and betweene thy
+<pb facs="tcp:21639:13"/>seed and her seed; it shall breake thine head, and thou shalt bruise his heele.</p>
+            <p>Q. 25. <hi>What is the meaning of these words, I will put enmity be<g ref="char:EOLhyphen"/>tweene thee and the wo<g ref="char:EOLhyphen"/>man, and betweene thy seed and her seed, it shall breake thine head and thou shalt bruise his heel?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are to bee taken two wayes; first, as they were spoken to the Serpent; secondly, as they were spoken to the Divell in the Serpent.</p>
+            <p>As they were spoken to the Serpent, they doe
+<pb facs="tcp:21639:13"/>containe a threatning, to put enmitie, that is, un<g ref="char:EOLhyphen"/>reconcileable hatred be<g ref="char:EOLhyphen"/>tweene the Serpent and <hi>Evah,</hi> and between both their seeds.</p>
+            <p>Q. 26. <hi>What is meant by the seede of the Ser<g ref="char:EOLhyphen"/>pent?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Adders and snakes.</p>
+            <p>Q. 27. <hi>What is meant by the seede of the wo<g ref="char:EOLhyphen"/>man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> All mankind.</p>
+            <p>The truth of this is seene daily, when a man commeth on the sudden, where an Adder or snake is, they will startle and run away one from ano<g ref="char:EOLhyphen"/>ther,
+<pb facs="tcp:21639:14"/>and the man, if hee have any thing in his hand, will strike at the head, to breake it; and the Adder or Snake when it seeth that it cannot save it selfe by creeping away, will turne againe, and doe what it can to sting the man in the heel, or some where in the foot or legge, because it can reach no higher.</p>
+            <p>Q. 28. <hi>What is the meaning of them, as they were spoken to the Di<g ref="char:EOLhyphen"/>vell in the Serpent; and first tell me what is meant by the Serpent, and by the seed of the Serpent,
+<pb facs="tcp:21639:14"/>and by the woman, and by seed of the woman?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the Serpent is meant the Divell; by the seede of the Serpent is meant the wicked that live and dye in their sins, without true faith and repentance. By the wo<g ref="char:EOLhyphen"/>man, is meant <hi>Evah;</hi> by the seed of the woman, is meant our Savior Christ, and those whom GOD hath elected and ordain<g ref="char:EOLhyphen"/>ed, to eternall Life, through Christ.</p>
+            <p>Q. 29 <hi>What is meant by the enmity that God hath put betweene the seed of the woman, and
+<pb facs="tcp:21639:15"/>the seed of the Serpent?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is to be taken two ways; first, as it is a work of the Divell in the wic<g ref="char:EOLhyphen"/>ked: Secondly, as it is the grace of God in the faithfull.</p>
+            <p>Q. 30. <hi>What is it as it is a worke of the Divel in the wicked?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a deadly and an unreconcileable ha<g ref="char:EOLhyphen"/>tred, that the wicked beare towards the godly, as <hi>Cain</hi> did to <hi>Abel,</hi> 1 <hi>Io.</hi> 3.12.</p>
+            <p>Q. 31. <hi>What is it, as it is the grace of God in the godly?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is the grace
+<pb facs="tcp:21639:15"/>whereby they (out of their hatred to sinne and zeale of Gods glory) have such an heart-rising a<g ref="char:EOLhyphen"/>gainst all ungodly per<g ref="char:EOLhyphen"/>sons, as causeth them to shun all familiarity and needlesse company-kee<g ref="char:EOLhyphen"/>ping with them.</p>
+            <p>Q. 33. <hi>What is meant by the head of the Ser<g ref="char:EOLhyphen"/>pent, and by breaking the head of the Serpent?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the head of the Serpent, is meant the po<g ref="char:EOLhyphen"/>wer that the Divell had over all mankind; by the breaking of the head of the Serpent, is meant the destroying of that power
+<pb facs="tcp:21639:16"/>so as he shall never be a<g ref="char:EOLhyphen"/>ble to bring any of the true children of God to eternall destruction.</p>
+            <p>Q. 34. <hi>How hath Christ destroyed that po<g ref="char:EOLhyphen"/>wer?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By his active and passive obedience, where<g ref="char:EOLhyphen"/>by hee hath pacified the wrath, and satisfied the justice of God.</p>
+            <p>Q. 35. <hi>How doth Christ now (he being in Heaven) destroy the po<g ref="char:EOLhyphen"/>wer of the Divell?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the preaching of the Gospel, and wor<g ref="char:EOLhyphen"/>king of his holy Spirit, he doth now open mens
+<pb facs="tcp:21639:16"/>eyes, and turnes them from darknesse to light, and from the power of Sathan unto God, <hi>Acts</hi> 26.18. Also, by the ver<g ref="char:EOLhyphen"/>tue of his death and re<g ref="char:EOLhyphen"/>surrection, with the wor<g ref="char:EOLhyphen"/>king of his holy Spirit by his Word; he doth mortifie sinne in the chil<g ref="char:EOLhyphen"/>dren of God, and doth raise them up to new<g ref="char:EOLhyphen"/>nesse of life, <hi>Rom.</hi> 3.4, 5.</p>
+            <p>Q. 36. <hi>Is nothing else meant by the breaking of the Serpents head?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, thereby is meant, that Christ hath, and now doth, and will, untill the day of judge<g ref="char:EOLhyphen"/>ment,
+<pb facs="tcp:21639:17"/>defend and protect the faithfull, and also sub<g ref="char:EOLhyphen"/>due, confound, and de<g ref="char:EOLhyphen"/>stroy all his and their e<g ref="char:EOLhyphen"/>nemies, and then when all enemies are subdu<g ref="char:EOLhyphen"/>ed, he will deliver up his kingdome into the hands of God the Father that gave it him, 1 <hi>Cor.</hi> 15.24, 25, 26.</p>
+            <p>Q. 37. <hi>It is written that of Christ his King<g ref="char:EOLhyphen"/>dome there shall be no end, Luke</hi> 1.33. <hi>Why then doe you say, that hee will deliver it up into the hands of God the Fa<g ref="char:EOLhyphen"/>ther?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Kingdome of
+<pb facs="tcp:21639:17"/>Christ is to be considered of two wayes, either as it is temporall, or as it is naturall and eternall.</p>
+            <p>Q. 38. <hi>What is his temporall kingdome, that shall be delivered up into the hands of God the Fa<g ref="char:EOLhyphen"/>ther?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> His temporal king<g ref="char:EOLhyphen"/>dome is, that whereby he doth by his divine po<g ref="char:EOLhyphen"/>wer governe and protect his people in the midst of their enemies, <hi>Psal.</hi> 2.6, 9.110.2. and whereby he doth over-rule, curbe, subdue, confound and de<g ref="char:EOLhyphen"/>stroy their enemies, in his good time.</p>
+            <pb facs="tcp:21639:18"/>
+            <p> Q. 9. <hi>What is his natural and eternall Kingdome?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> His naturall and e<g ref="char:EOLhyphen"/>ternall Kingdome, is that wherby he hath supreme eminencie over men and Angels, as he is God e<g ref="char:EOLhyphen"/>quall with his Father.</p>
+            <p>Q. 40. <hi>Now come to the last words, which are these, Thou shalt bruise his heele: shew the mea<g ref="char:EOLhyphen"/>ning of them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The meaning is, that when Sathan doth shew his malice in perse<g ref="char:EOLhyphen"/>cuting Christ, or any of his, the worst that hee can do, is, but as a prick in the heele, which is farre
+<pb facs="tcp:21639:18"/>enough from the heart.</p>
+            <p>Q. 41. <hi>What did God to Evah for harkning to the Serpent?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God did greatly increase her sorrowes, and conceptions, and told her, that in sorrow shee should bring forth chil<g ref="char:EOLhyphen"/>dren, and that her desire should be subject to her husband, and that hee should rule over her.</p>
+            <p>Q. 42. <hi>What did God to Adam for hearkning to the voyce of his wife?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> For Adams sake, God cursed the earth, saying, cursed is the earth for thy sake, in sorrow
+<pb facs="tcp:21639:19"/>shalt thou eate thereof, all the dayes of thy life: thornes also and thistles shall it bring forth unto thee; and thou shalt eat the hearb of the field: In the sweat of thy face shalt thou eate thy bread, till thou returne to the earth.</p>
+            <p>Q. 42. <hi>Wherein did God curse the earth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In making it bar<g ref="char:EOLhyphen"/>ren, <hi>Psal.</hi> 107.34.</p>
+            <p>Q. 44. <hi>Why did God make the earth barren?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That thereby sor<g ref="char:EOLhyphen"/>row might come to A<g ref="char:EOLhyphen"/>dam and to all his poste<g ref="char:EOLhyphen"/>ritie,
+<pb facs="tcp:21639:19"/>all the dayes of their life.</p>
+            <p>Q. 45. <hi>Why all the dayes of their life?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because no part of their life is free from sin.</p>
+            <p>Q. 46. <hi>Doe all feel the sorrowes of this life a<g ref="char:EOLhyphen"/>like?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, the ungodly, for the most part, do feel them least, <hi>Psal.</hi> 73.3, 4, 5. <hi>Io.</hi> 21.9.13. and chil<g ref="char:EOLhyphen"/>dren, that have good pa<g ref="char:EOLhyphen"/>rents, and servants that have good masters, and women that have good husbands to provide for them.</p>
+            <p>Q 47. <hi>Why did God
+<pb facs="tcp:21639:20"/>curse the earth and not Adam?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because hee was one of them with whom God, had according to his eternall purpose made an everlasting Covenant of grace.</p>
+            <p>Q. 48. <hi>What is the Covenant of Grace?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That you may the better understand what the Covenant of grace is, it is needfull that I first speak of some things that God did before he made the world?</p>
+            <p>Q. 49. <hi>What did God before hee made the world?</hi>
+            </p>
+            <pb facs="tcp:21639:20"/>
+            <p>
+               <hi>A.</hi> As a man that pur<g ref="char:EOLhyphen"/>poseth to build an house, and hath resolved upon the roomes, what, and how many to make, doth in conceit see every room how fitly it will serve his turne: Even so Almigh<g ref="char:EOLhyphen"/>ty God, with whom all things to come are al<g ref="char:EOLhyphen"/>wayes, as present, did know, and see every creature in Heaven and Earth.</p>
+            <p>Q. 50. <hi>Did God then see, that some of the An<g ref="char:EOLhyphen"/>gels would grow proud of their glory?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, and that ther<g ref="char:EOLhyphen"/>by they would make a
+<pb facs="tcp:21639:21"/>way for his wrath and justice to appeare, in de<g ref="char:EOLhyphen"/>priving them of their glo<g ref="char:EOLhyphen"/>ry, and to cast them out of Heaven to Hell.</p>
+            <p>Q. 51. <hi>Did God see, what would become of them after they were cast out of Heaven to hell?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, God saw that they would come to bee Devils, and that one of them (envying the hap<g ref="char:EOLhyphen"/>pinesse of <hi>Adam</hi> and <hi>E<g ref="char:EOLhyphen"/>vah,</hi> would tempt her to eat of the forbidden fruit, and that she would tempt and draw her husband to cat, and so break the Co<g ref="char:EOLhyphen"/>venant and make way for
+<pb facs="tcp:21639:21"/>his wrath and Justice to appeare, depriving them also of the glorious state wherein they lived.</p>
+            <p>
+               <hi>A.</hi> 52. <hi>Did God see what would become of them after they were de<g ref="char:EOLhyphen"/>prived of that estate?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, God saw that they would come to bee most miserable, corrupt, and sinfull wretches.</p>
+            <p>Q 53. <hi>Did God see that they would bring forth children, like them<g ref="char:EOLhyphen"/>selves, corrupt and sin<g ref="char:EOLhyphen"/>full?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, and that sin as a leprosie, would goe
+<pb facs="tcp:21639:22"/>over and infect all man<g ref="char:EOLhyphen"/>kinde from one genera<g ref="char:EOLhyphen"/>tion to another, and so make way for his wrath and justice, to appeare in condemning all.</p>
+            <p>Q. 54. <hi>How doth it appeare that corruption and sinfulnesse, is deri<g ref="char:EOLhyphen"/>ved from parents to their children?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It appeareth by that which is written of Adam, that he did beget a child in his owne like<g ref="char:EOLhyphen"/>nesse, that is, corrupt and sinfull, like himselfe, <hi>Gen.</hi> 5.3. and by the confessi<g ref="char:EOLhyphen"/>on of the Prophet <hi>David,</hi> where hee saith, <hi>I was
+<pb facs="tcp:21639:22"/>borne in iniquitie and con<g ref="char:EOLhyphen"/>ceived in sinne, Psal.</hi> 51.5.</p>
+            <p>Q 55. <hi>What did God, when hee saw that a way was made for his justice to appeare in condem<g ref="char:EOLhyphen"/>ning all?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God being a God of mercy, as well as a God of justice, did re<g ref="char:EOLhyphen"/>solve and purpose to save some, and (out of his free love) to bestow his onely sonne Jesus Christ upon them in marriage, <hi>Isai</hi> 9.6. <hi>Mat.</hi> 22.2.</p>
+            <p>Q 56. <hi>What did God after he was so purposed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> According to which his purpose and good
+<pb facs="tcp:21639:23"/>pleasure of his will, hee did elect so many as plea<g ref="char:EOLhyphen"/>sed him, <hi>Eph.</hi> 1.4, 5, 11. &amp; did ordaine them, not unto wrath, but to ob<g ref="char:EOLhyphen"/>taine salvation by meanes of our Lord Jesus Christ, 1 <hi>Thess.</hi> 5.9. and to come to a new agreement, and to make an everlasting Covenant of grace with them, <hi>Psal.</hi> 89.31, 32, 33, 34.</p>
+            <p>Q 57. <hi>By whose means was the new agreement obtained?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By meanes of Jesus Christ, 1 <hi>Tim.</hi> 2.1. <hi>Heb.</hi> 12.24.</p>
+            <p>Q. 57. <hi>Vpon what con<g ref="char:EOLhyphen"/>dition
+<pb facs="tcp:21639:23"/>was it granted?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It was granted up<g ref="char:EOLhyphen"/>on condition that hee should discharge all their debt of sinne, by suffe<g ref="char:EOLhyphen"/>ring for them, 1 <hi>Tim.</hi> 2.5, 6. and performing for them such an absolute o<g ref="char:EOLhyphen"/>bedience, <hi>Isai</hi> 53.6, 8. to the Law, as might justi<g ref="char:EOLhyphen"/>fie them, 2 <hi>Cor.</hi> 5.21. <hi>Rom</hi> 5.18, 19. <hi>Ier.</hi> 23.6.</p>
+            <p>Q. 59. <hi>After what manner was the Cove<g ref="char:EOLhyphen"/>nant made?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> After the same manner that Covenants are made betweene man and man; as,</p>
+            <p>In Covenants between
+<pb facs="tcp:21639:24"/>man and man, matters are first agreed upon by both parties, then Arti<g ref="char:EOLhyphen"/>cles of agreement are written, sealed, and deli<g ref="char:EOLhyphen"/>vered: so, in the Cove<g ref="char:EOLhyphen"/>nant of grace matters were first agreed upon by both parties, the holy Trinitie on the one par<g ref="char:EOLhyphen"/>tie, and all those whom God did purpose to save on the other part.</p>
+            <p>Q. 60. <hi>How could they be present to give their consent, cōsidering, that not one of them was then created.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There was no need of their being present be<g ref="char:EOLhyphen"/>cause
+<pb facs="tcp:21639:24"/>they had their hus<g ref="char:EOLhyphen"/>band, Jesus Christ to me<g ref="char:EOLhyphen"/>diate for them.</p>
+            <p>
+               <hi>Q</hi> 61. <hi>Rehearse the Articles, that are to bee performed on Gods part,</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are many, and may be reduced into few that do comprehend all the rest. as first, that God for his owne great names sake, and for his beloved Sonne sake will forgive, and forget al the sinnes of the Elect for e<g ref="char:EOLhyphen"/>ver, <hi>Ier.</hi> 31.74. Secondly that God will take away their stony hart and give them a new heart and a new spirit. <hi>Ezeke:</hi> 36.26.
+<pb facs="tcp:21639:25"/>Thirdly, that God will out his Law into their in<g ref="char:EOLhyphen"/>ward parts, &amp; write it in their hearts, <hi>Ier.</hi> 31.33. Fourthly, that God will put his Spirit within them, and cause them to walke in his statutes, <hi>Ezek</hi> 36.27. Fifthly, that God wil be their God, to defend and pro<g ref="char:EOLhyphen"/>tect them from all their enemies, and their Father to provide for them all things necessary, <hi>Ier.</hi> 11.4. 2 <hi>Cor.</hi> 6.18.</p>
+            <p>
+               <hi>Q.</hi> 62. <hi>Rehearse the articles that are to bee performed by us and all other the Children of God?</hi>
+            </p>
+            <pb facs="tcp:21639:25"/>
+            <p>
+               <hi>A.</hi> They also, are ma<g ref="char:EOLhyphen"/>ny, and may be reduced into few that doe com<g ref="char:EOLhyphen"/>prehend all the rest.</p>
+            <p>
+               <hi>Q.</hi> 63. <hi>What is the first?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That wee shall hate and renounce the Deuill and all his workes.</p>
+            <p>
+               <hi>Q.</hi> 64. <hi>What is the second?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That we shall inde<g ref="char:EOLhyphen"/>vour to serve God, in ho<g ref="char:EOLhyphen"/>linesse and in righteous<g ref="char:EOLhyphen"/>nesse all the dayes of our life, <hi>Luk.</hi> 1.74, 75.</p>
+            <p>Q. 65. <hi>What is the third?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That when through infirmitie, we doe breake
+<pb facs="tcp:21639:26"/>any of Gods Comman<g ref="char:EOLhyphen"/>dements, that then wee must neither presume, nor despaire, but repent, and beleeve in the Lord Jesus Christ, <hi>Mar.</hi> 1.15.</p>
+            <p>Q. 66. <hi>By whom were the Articles written?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By <hi>Moses</hi> and the Prophets, in the Old Te<g ref="char:EOLhyphen"/>stament.</p>
+            <p>Q. 67. <hi>To whom was the Covenant of Grace first revealed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To <hi>Adam</hi> and <hi>E<g ref="char:EOLhyphen"/>vah,</hi> when God said to the Divell in the Serpent, <hi>I will put enmity, betweene thee and the woman, and between thy seed and her
+<pb facs="tcp:21639:26"/>seed, it shall breake thine head, and thou shalt bruise his heele.</hi>
+            </p>
+            <p>Q. 68. <hi>What Seales had the Covenant of Grace, in the Old Testa<g ref="char:EOLhyphen"/>ment?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Circumcision and the Passeover were the two ordinary Seales.</p>
+            <p>Q. 69. <hi>VVhat was Circumcision?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Circumcision was a paring away of the fore-skin of the flesh.</p>
+            <p>Q. 70. <hi>VVhat was signified by the fore-skin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It signified sinne,
+<pb facs="tcp:21639:27"/>that hath, as a leprosie, gone over and infected all man-kinde, from one generation to another.</p>
+            <p>Q. 71. <hi>VVhat was fignified by the paring and casting away of the fore-skin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The fore-skin sig<g ref="char:EOLhyphen"/>nified sinne; the paring and casting of it away, did signifie that God, for Christ his sake, doth for<g ref="char:EOLhyphen"/>give and cast out of his memory all the sinnes of all true beleevers for ever according to his promise in his everlasting Cove<g ref="char:EOLhyphen"/>nant of Grace, whereof Circumcision was a seale,
+<pb facs="tcp:21639:27"/>
+               <hi>Ier.</hi> 31.34. Also the pa<g ref="char:EOLhyphen"/>ring and casting away of the fore-skin, did signi<g ref="char:EOLhyphen"/>fie the grace that God giveth unto his children, to circumcise the fore-skin of their hearts.</p>
+            <p>Q. 72. <hi>VVhat is meant by the fore-skin of the heart?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the fore-skin of the heart is not meant the skin that is about the heart, but the sinfull lusts and affections of the heart, <hi>Deut.</hi> 10.16. <hi>Ier.</hi> 4.4.</p>
+            <p>Q. 73. <hi>What is meant by the circumcising of the fore-skin of the heart?</hi>
+            </p>
+            <pb facs="tcp:21639:28"/>
+            <p>
+               <hi>A.</hi> By circumcising the fore-skin of the heart is meant the grace that God giveth to his chil<g ref="char:EOLhyphen"/>dren, to subdue the sinfull lusts and affections of their hearts.</p>
+            <p>Q. 74. <hi>VVhat was the Passeover?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Passeover was a feast in Jerusalem, once in a yeere, to the killing and eating of a Lambe, called the Passeover.</p>
+            <p>Q. 75. <hi>VVherefore was that feast kept?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It was kept for a memoriall of the good<g ref="char:EOLhyphen"/>nesse of God in passing over the houses of the Is<g ref="char:EOLhyphen"/>raelites,
+<pb facs="tcp:21639:28"/>when by his An<g ref="char:EOLhyphen"/>gel he slew the first borne in every house of the E<g ref="char:EOLhyphen"/>gyptians.</p>
+            <p>Q. 76. <hi>VVhy is our Saviour Christ called our Passeover,</hi> 2 <hi>Corin.</hi> 5.7.</p>
+            <p>Our Saviour Christ is called our Passeover, be<g ref="char:EOLhyphen"/>cause of the type and fi<g ref="char:EOLhyphen"/>gure that was of him, in the Pascall Lambe.</p>
+            <p>Q. 77. <hi>VVherein was the Pascall Lambe a type and figure of our Savior Christ?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It was a type and figure of our Saviour Christ in many things:</p>
+            <pb facs="tcp:21639:29"/>
+            <p> As first, the Lambe was a male without ble<g ref="char:EOLhyphen"/>mish: so was our Savi<g ref="char:EOLhyphen"/>our Christ a perfect man without sinne, 1 <hi>Pet.</hi> 1.</p>
+            <p>Secondly, the Lambe was patient, meeke, and harmlesse: so was Christ <hi>Isai.</hi> 53.7.</p>
+            <p>Thirdly, the Lambe was taken out of the flocke, and set apart to be kill'd; so was Christ (by the determinat coun<g ref="char:EOLhyphen"/>sell of God) to dye for all that beleeve in him, <hi>Act.</hi> 2.23.</p>
+            <p>Fourthly, the Lambe was kill'd towards the evening sacrifice: so was Christ.</p>
+            <pb facs="tcp:21639:29"/>
+            <p> Fifthly, the Lambe was was rosted with fire: fire signifieth the wrath and curse of God, <hi>Deut.</hi> 4.24. <hi>Isa.</hi> 66.15. and sometimes extreame and grievous paine, <hi>Mar.</hi> 9.34. The Lambe was rosted with fire, to prefigure the wrath and curse of God, and the grievous paine and torment that Christ suffered, Gal. 3.13.</p>
+            <p>Sixthly, the Lambe was eaten with bitter hearbes, to prefigure the afflictions and persecuti<g ref="char:EOLhyphen"/>ons that the true follow<g ref="char:EOLhyphen"/>ers of Christ are subject unto in this life.</p>
+            <p>Seventhly, the Lambe
+<pb facs="tcp:21639:30"/>was eaten with unleve<g ref="char:EOLhyphen"/>ned bread; leven doth signifie hypocrisie, cor<g ref="char:EOLhyphen"/>rupt doctrine, malicious<g ref="char:EOLhyphen"/>nesse and wickednesse: the Lamb was eaten with unlevened bread, to sig<g ref="char:EOLhyphen"/>nifie, that the true pro<g ref="char:EOLhyphen"/>fessors of Christ ought to take heed of hypocrisie, corrupt doctrine, malici<g ref="char:EOLhyphen"/>ousnesse and wickednesse <hi>Mat.</hi> 16.22. 1 <hi>Cor.</hi> 4.12.</p>
+            <p>Eightly, strangers and uncircumcised persons, were not to eate of it, to signifie, that infidels pro<g ref="char:EOLhyphen"/>phane and ungodly per<g ref="char:EOLhyphen"/>sons, that live and dye in their sinnes and unbeleefe have no part in Christ.</p>
+            <pb facs="tcp:21639:30"/>
+            <p> Ninthly, the Lord commanded, that the Lambe should have none of his bones broken: the strength of every living creature is in his bones, so as if you take away, or break the bones, you take away the strength: the not breaking the bones of the Lambe, did signifie, that though Christ did take on him for our sakes, more than he was able to beare, as hee was man, which did cost him his life, yet his divine power whereby hee was able to save all them for whom he dyed, and whereby he was able to be revenged of
+<pb facs="tcp:21639:31"/>all his and their enemies, was nothing diminished, which his divine power, he did shew in his death, by conquering death, ac<g ref="char:EOLhyphen"/>cording to the prophecie, <hi>Death is swallowed up in victory,</hi> Isai. 25.18. 1 Cor. 15.54. and by conque<g ref="char:EOLhyphen"/>ring him, that had power over death, that is, the Devill.</p>
+            <p>Q. 78. <hi>How doth it appeare, that the death of Christ did conquer death and the Devill?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It appeareth by the triumph and shew, that Christ did openly make, when hee gave up the
+<pb facs="tcp:21639:31"/>Ghost upon the Crosse, <hi>Col</hi> 2.15.</p>
+            <p>Q. 79. <hi>VVherein did the shew of triumph ap<g ref="char:EOLhyphen"/>peare?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It appeared, in that the Graves did open, and many bodies of the Saints did rise, and came out of the Graves, as soone as Christ was risen, and ap<g ref="char:EOLhyphen"/>peared unto many.</p>
+            <p>Q. 80. <hi>VVhat use ought we to make of the triumph?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It serveth to stirre us up with joyfull and glad hearts, to love the Lord Jesus, and to insult over death, as Saint <hi>Paul</hi>
+               <pb facs="tcp:21639:32"/>did, when he said, <hi>O death where is thy victory: the sting of death is sinne, the strength of sin is the Law, but thankes be unto God, who hath given us victory through Iesus Christ,</hi> 1 Cor. 15.55, 56, 57.</p>
+            <p>Q. 81. <hi>Now that you have shewed what seales the Covenant of grace had in the old Testament, it remaineth that you shew what seales it hath in the New Testament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The seales of the New Testament, are Baptisme and the Lords Supper.</p>
+            <pb facs="tcp:21639:32"/>
+            <p> Q. 82. <hi>VVhat are wee principally to consider of, in Baptisme?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> We are to consider first, that the Minister doth represent God, sea<g ref="char:EOLhyphen"/>ling the Covenant of Grace: Secondly, that God by sealing the Co<g ref="char:EOLhyphen"/>venant, doth bind him<g ref="char:EOLhyphen"/>selfe to performe all pro<g ref="char:EOLhyphen"/>mises and grants therein contained, as a man by putting his hand and seal to a writing, doth binde himselfe to performe all promises and grants ther<g ref="char:EOLhyphen"/>in contained.</p>
+            <p>Q. 83. <hi>Where do you finde the hand and seale
+<pb facs="tcp:21639:33"/>of God, to be in Bap<g ref="char:EOLhyphen"/>tisme?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> As by a mans hand to a writing, is meant, not his hand cut off, and fastend to the writing, but his name or marke: so in Baptisme, the name of God, wherein Bap<g ref="char:EOLhyphen"/>tisme is ministred, is the hand of God, the water is the seale; the dipping or sprinkling of the wa<g ref="char:EOLhyphen"/>ter, is the putting to of the seale.</p>
+            <p>Q. 84. <hi>VVhether ought one to be dipped in, or but sprinkled with water?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a thing indif<g ref="char:EOLhyphen"/>ferent,
+<pb facs="tcp:21639:33"/>whether one bee dipped in, or but sprink<g ref="char:EOLhyphen"/>led, as appeareth by the example of the Apostles, who used both.</p>
+            <p>Q. 85. <hi>Can you name any that were dipped?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, the Eunuch was dipped by <hi>Philip, Act.</hi> 8.38, 39. so also were they that were baptized by <hi>Iohn</hi> in <hi>Iorden, Mat.</hi> 3.6. and our Saviour Christ <hi>Mat.</hi> 3.16.</p>
+            <p>Q. 86. <hi>Can you name any that were but sprin<g ref="char:EOLhyphen"/>kled?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, <hi>Cornelius</hi> was but sprinkled, by S. <hi>Peter</hi> in his owne house, <hi>Acts</hi>
+               <pb facs="tcp:21639:34"/>10.47. and S. <hi>Paul</hi> by <hi>A<g ref="char:EOLhyphen"/>nanias,</hi> in the house of <hi>Iu<g ref="char:EOLhyphen"/>das</hi> of <hi>Damascus, Acts</hi> 9.11.18. and the keeper of the Prison by Saint <hi>Paul</hi> in the prison house, <hi>Acts</hi> 16.33.</p>
+            <p>Q. 87. <hi>VVhich do you take to be most conveni<g ref="char:EOLhyphen"/>ent?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In cold Countries, where one may receive hurt by being dipped, sprinkling is rather to be used, but in hot Coun<g ref="char:EOLhyphen"/>tries, dipping is most con<g ref="char:EOLhyphen"/>venient, because dipping doth more fully represent our being in Christ.</p>
+            <p>
+               <hi>Q.</hi> 88. <hi>How doth dip<g ref="char:EOLhyphen"/>ping
+<pb facs="tcp:21639:34"/>represent our being in Christ?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The water doth represent, not the blood onely, but also whole Christ, body and soule, the being of the body in the water, doth repre<g ref="char:EOLhyphen"/>sent our being in Christ, in the true nature and substance of our bodies and of our soules.</p>
+            <p>Q. 89. <hi>How is the true nature and substance of our bodies and of our soules in Christ?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The true nature and substance of our bo<g ref="char:EOLhyphen"/>dies and souls, is in Christ, in that the body of Christ
+<pb facs="tcp:21639:35"/>was incarnate, and made flesh of our flesh, and his soule of the same spiritu<g ref="char:EOLhyphen"/>all substance that our soules are of.</p>
+            <p>Q. 90. <hi>VVhen the bo<g ref="char:EOLhyphen"/>dy is in the water, it is as a dead body, in the grave, within the earth: what doth that signifie?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It signifieth, that we (in our true nature and substance of body and soule) were in Christ, when hee was dead and buried, according as it is written, <hi>Wee are buried with Christ in Baptisme into his death,</hi> Romans 6.4.</p>
+            <pb facs="tcp:21639:35"/>
+            <p> Q. 91. <hi>VVhat bene<g ref="char:EOLhyphen"/>fit have we by our being in Christ, in our true nature and substance of our bodies and soules, when hee was dead and buried?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Wee are thereby made partners of the me<g ref="char:EOLhyphen"/>rit of his death and buri<g ref="char:EOLhyphen"/>all, so as thereby the ju<g ref="char:EOLhyphen"/>stice of God is satisfied, and his wrath is pacified: God of his goodnesse, ac<g ref="char:EOLhyphen"/>cepting of his suffering for us, in the true nature and substance of our bo<g ref="char:EOLhyphen"/>dies and soules, as though we our selves had suffe<g ref="char:EOLhyphen"/>red
+<pb facs="tcp:21639:36"/>in our bodies and in our soules.</p>
+            <p>Q. 92. <hi>Have we any other benefit by the death and buriall of Christ, in our true nature and sub<g ref="char:EOLhyphen"/>stance?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, thereby we are made partakers of the vertue of his death and buriall, so as thereby to<g ref="char:EOLhyphen"/>gether with the working of his holy Spirit, by his Word sinne is mortified, and kept under, from ha<g ref="char:EOLhyphen"/>ving dominion over us, and we are raised to new<g ref="char:EOLhyphen"/>nesse of life, according as it is written, <hi>If wee bee grafted with him to the si<g ref="char:EOLhyphen"/>militude
+<pb facs="tcp:21639:36"/>of his death, even so shall we be to the simili<g ref="char:EOLhyphen"/>tude of his resurrection, knowing this, that the old man is crucified with him, that the body of sinne might be destroyed, that hence<g ref="char:EOLhyphen"/>forth wee should not serve sinne,</hi> Rom. 6.4, 5, 6.</p>
+            <p>Q. 93. <hi>Christ is now in Heaven, in our true nature and substance, of body and soule, what be<g ref="char:EOLhyphen"/>nefit have we thereby?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Thereby, wee in Christ) are in Heaven al<g ref="char:EOLhyphen"/>ready, in full possession of it, and have possession kept for us, by Christ, till our appointed time bee
+<pb facs="tcp:21639:37"/>come, in the mean while Christ sitteth on the right hand of God, making in<g ref="char:EOLhyphen"/>tercession for us.</p>
+            <p>Q. 95. <hi>What if a weak Christian finde such cor<g ref="char:EOLhyphen"/>ruption to be in his na<g ref="char:EOLhyphen"/>ture, and such rebellion to be in his heart, and the sinne that dwelleth in him, to be so strong, as makes him to feare, that hee is not a partaker of these benefits?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Let him not de<g ref="char:EOLhyphen"/>spaire, but assure himselfe that the feeling of his im<g ref="char:EOLhyphen"/>perfections and of the re<g ref="char:EOLhyphen"/>bellion of his heart, and
+<pb facs="tcp:21639:37"/>of the strength of sin that dwelleth in him, is a sure signe and token, that hee is not dead in trespasses and in sin, and that the life of grace is in him, and that God hath a loving care of him, and therfore doth give to him a sight and feeling of themisera<g ref="char:EOLhyphen"/>ble estate he is in by natur that thereby he may pre<g ref="char:EOLhyphen"/>pare and fit him, and also stirre him up, to lay hold on the Covenant of grace, which was sealed unto him, when he was baptised.</p>
+            <p>For the more strength<g ref="char:EOLhyphen"/>ning of his faith let him call to mind, that as veri<g ref="char:EOLhyphen"/>ly,
+<pb facs="tcp:21639:38"/>as when hee was baptised, the Minister did then take his name, and did baptise him by his name: so verily God the Father did then take and acknowledge him by name, to be his child, and did then seale his e<g ref="char:EOLhyphen"/>verlasting Covenant of grace to him by name, and for his further com<g ref="char:EOLhyphen"/>fort, let him assure him<g ref="char:EOLhyphen"/>selfe, that as the Minister did then know him by name, and did write or cause his name to be writ<g ref="char:EOLhyphen"/>ten in the Church-Book among the Saints Mili<g ref="char:EOLhyphen"/>tant, here on earth: so verily God doth now
+<pb facs="tcp:21639:38"/>know him by his name, and hath his name writ<g ref="char:EOLhyphen"/>ten among the Saints tri<g ref="char:EOLhyphen"/>umphant in heaven. <hi>Luk</hi> 10.20. <hi>Phil.</hi> 4.3. <hi>Revel.</hi> 21.27.</p>
+            <p>Q. 95. <hi>When a weake Christian doth feele his sinnes, to lye upon his heart and conscience, as a burthen too heavy for him to beare; what must he doe to finde some ease?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He must then also thinke upon his baptisme, and assure himselfe, that as verily as he was bapti<g ref="char:EOLhyphen"/>zed in the name of the Sonne; so verily, Jesus Christ the Sonne of God
+<pb facs="tcp:21639:39"/>hath suffered for his sins, and washed them all a<g ref="char:EOLhyphen"/>way in his precious bloud 1 <hi>Io.</hi> 1.7. And that as verily, as he was baptized in the name of the Holy Ghost; so verily, God in his good time will give his holy Spirit unto him, to sanctifie, guide, com<g ref="char:EOLhyphen"/>fort, and preserve him to eternall life through Jesus Christ, according to his promise in his everlasting Covenant of Grace, which was sealed unto him when he was bapti<g ref="char:EOLhyphen"/>zed.</p>
+            <p>Qu. 97. <hi>How may a weake Christian know
+<pb facs="tcp:21639:39"/>and bee assured that hee hath the Spirit of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Hee may easily know the Spirit of God, by the crying that it ma<g ref="char:EOLhyphen"/>keth within him, accor<g ref="char:EOLhyphen"/>ding as it is written, <hi>Gal.</hi> 4.6. <hi>Because ye are sonnes, God hath sent forth the Spirit of his Son into your hearts, which cryeth Abba, Father.</hi>
+            </p>
+            <p>Qu. 98. <hi>Doth the Spirit of God cry?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, the meaning is, that it makes them that have it to cry.</p>
+            <p>Q. 99. <hi>They that cry are much offended, and
+<pb facs="tcp:21639:40"/>grieved: what is that that doth so offend and grieve weake Christi<g ref="char:EOLhyphen"/>ans?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The sight and fee<g ref="char:EOLhyphen"/>ling of the corruption of their nature and of the strength of sinne, that dwelleth, in them, and of their own weaknesse and readinesse to yeeld to the corruption of their na<g ref="char:EOLhyphen"/>ture, and to the sinne that dwelleth in them.</p>
+            <p>Q. 100. <hi>Why doth God give them such a sight and feeling of the cursed and damnable estate that they are in by nature?</hi>
+            </p>
+            <pb facs="tcp:21639:40"/>
+            <p>
+               <hi>A.</hi> God doth it, to humble them, and to make them fit for true and sound comfort, and joy in the Holy Ghost.</p>
+            <p>Q. 101. <hi>How are they brought to have true and sound comfort?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the sight that the Spirit of Christ gi<g ref="char:EOLhyphen"/>veth them of the eternall love and goodnesse of God, in electing them for his children, and in ordaining them to eter<g ref="char:EOLhyphen"/>nall life, through Jesus Christ, and in making an everlasting Covenant of Grace with them.</p>
+            <p>Qu. 102. <hi>How are
+<pb facs="tcp:21639:41"/>they brought to have that sight?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the Grace that the Spirit of God wor<g ref="char:EOLhyphen"/>keth in them to heare his holy Word, Acts 26.18.</p>
+            <p>Q. 103. <hi>How is faith wrought in them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By hearing the Word of God, Rom. 10.17.</p>
+            <p>
+               <hi>Q.</hi> 104. <hi>How is a true lively faith known from a dead faith?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By purifying the heart, that is, by wor<g ref="char:EOLhyphen"/>king such a change in the heart, as bringeth forth a reformed life, Acts 15.9.</p>
+            <pb facs="tcp:21639:41"/>
+            <p> Q. 105. <hi>You said, that the Spirit of God, is known by the crying that it maketh in them, that have it: what doth it cry?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Spirit of God it selfe doth not cry, but makes them to cry that have it.</p>
+            <p>Q. 106. <hi>And what doe they cry?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They cry Abba, Father.</p>
+            <p>Q. 107. <hi>What is meant by crying Abba, Father?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The meaning is, that as soone as a childe of God hath Faith
+<pb facs="tcp:21639:42"/>though but in a weake measure, to beleeve that God is his father, he doth then cry and call upon God his Heavenly Father for mercy and forgive<g ref="char:EOLhyphen"/>nesse, and for grace to amend what hath beene amisse in him.</p>
+            <p>Whosoever doth finde this grace of God in him<g ref="char:EOLhyphen"/>selfe, may assure himselfe that he is a child of God, and that his faith is a true faith, though weake.</p>
+            <p>Q. 108. <hi>Now that you have shewed what use every christian ought to make, of being bapti<g ref="char:EOLhyphen"/>zed in the Name of the
+<pb facs="tcp:21639:42"/>Father, Sonne and Holy Ghost, it remaineth that you shew, what use every Christian ought to make of giving his name to the Minister before hee did baptize him,</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The giving of our names to the Minister, serveth first to put every Christian in minde, that as verily as hee did give his name to the Minister, so verily did he then give his name unto God, whō the Minister did then re<g ref="char:EOLhyphen"/>present: Secondly, it serveth to put him in minde, that hee did re<g ref="char:EOLhyphen"/>ceive Baptisme, not only
+<pb facs="tcp:21639:43"/>as a seale of the Cove<g ref="char:EOLhyphen"/>nant of Grace, but also as a seale or marke where<g ref="char:EOLhyphen"/>with hee was sealed and marked for one of Gods Covenant servants, and that he did receive it as an earnest penny to bind him to serve God, in ho<g ref="char:EOLhyphen"/>linesse and in righteous<g ref="char:EOLhyphen"/>nesse all the dayes of his life: and that therefore, as he hopeth to enter in<g ref="char:EOLhyphen"/>to his Masters joy, (the joyes of heaven) his grea<g ref="char:EOLhyphen"/>test care and endevour ought to bee to serve God.</p>
+            <p>Q. 109. <hi>What if his conscience doth tell him,
+<pb facs="tcp:21639:43"/>that he hath broken Co<g ref="char:EOLhyphen"/>venant with God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He must not there<g ref="char:EOLhyphen"/>fore despaire, but repent and beleeve in the Lord Jesus, and come as soone as he can to the Table of the Lord to renue his Covenant.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:21639:44"/>
+            <head>Of the Lords Supper.</head>
+            <p>Q. 110. <hi>What are the principall things that we are to consider of in the Lords Supper?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Wee are first to consider that it is an ho<g ref="char:EOLhyphen"/>ly Ordinance of the Lord Jesus, and there<g ref="char:EOLhyphen"/>fore not to be neglected, nor lightly regarded.</p>
+            <p>Q. 111. <hi>Is it to be re<g ref="char:EOLhyphen"/>garded now as much as it was then, when it was
+<pb facs="tcp:21639:44"/>first instituted and ad<g ref="char:EOLhyphen"/>ministred by the Lord Iesus himselfe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes verily, because it is now as it was then, a seale of the Covenant of Grace, and the Lord Je<g ref="char:EOLhyphen"/>sus is present now as well as then.</p>
+            <p>Q. 112. <hi>How is the Lord Iesus present?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He is present with the receivers by his Spi<g ref="char:EOLhyphen"/>rit, according to his pro<g ref="char:EOLhyphen"/>mise, <hi>Where two or three are gathered together in my name, there am I in the middest of them.</hi>
+            </p>
+            <p>He is also present with the elements of bread and
+<pb facs="tcp:21639:45"/>wine, by his divine po<g ref="char:EOLhyphen"/>wer blessing them, so as they are effectuall seales, to ratifie the Covenant of Grace, and to convey Christ and all his merits to every faithfull recei<g ref="char:EOLhyphen"/>ver.</p>
+            <p>Q. 113. <hi>Why doth the Pope and his follow<g ref="char:EOLhyphen"/>ers say, that Christ is re<g ref="char:EOLhyphen"/>ally present, and that the bread is the very flesh, and the wine is the very blood of Christ?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because they are given over into strong delusion to beleeve lyes, 2 Thess. 2.8, 9, 10, 11. They may as well say,
+<pb facs="tcp:21639:45"/>that the Cup is the New Testament, because it is written, that our Savior tooke the Cup and said, This Cup is the new Te<g ref="char:EOLhyphen"/>stament, 1 Corin. 11.25. Luk. 22.20.</p>
+            <p>Q. 114. <hi>When was the Lords Supper institu<g ref="char:EOLhyphen"/>ted?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It was instituted as soone as Christ was risen from eating the Pascall Lambe, and had washt his Disciples feet, and was set down againe with his Disciples, to a little ban<g ref="char:EOLhyphen"/>quet, that the Jewes did use to make then, as an entrance into the feast of
+<pb facs="tcp:21639:46"/>unlevend bread, which did then begin, and con<g ref="char:EOLhyphen"/>tinued seven dayes.</p>
+            <p>Q 115. <hi>What had they to that banquet?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They had a Cake of unlevened bread, and a cup of wine, and a Sallet of bitter hearbs and soure sawce.</p>
+            <p>Q. 116. <hi>Why was the Cake unlevened?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To put them in minde of the sudden de<g ref="char:EOLhyphen"/>parture of their Fathers out of Egypt, so as they had no time to leven their dough.</p>
+            <p>Q. 117. <hi>What was signified by the bitter
+<pb facs="tcp:21639:46"/>hearbes and soure sawce?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The bitter hearbes and soure sawce was to put them in minde of the bondage and bitter af<g ref="char:EOLhyphen"/>flictions of their Fathers in Egypt.</p>
+            <p>Q. 118. <hi>Was any thing signified by the bondage of their Fathers in E<g ref="char:EOLhyphen"/>gypt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, thereby was signified the spirituall bondage of mankind un<g ref="char:EOLhyphen"/>der sinne, Satan, and death eternall.</p>
+            <p>Q. 119. <hi>Shew the man<g ref="char:EOLhyphen"/>ner of that banquet?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It was thus, the Master of the Family
+<pb facs="tcp:21639:47"/>tooke the Cake of bread, &amp; gave thankes, and then broke it in two parts, and set one part by it selfe, covering it with a nap<g ref="char:EOLhyphen"/>kin, and divided the o<g ref="char:EOLhyphen"/>ther among them, that sat at Table with him, which they did eate with the Sallet, dipping their morsels in the platter.</p>
+            <p>Q 120. <hi>What did they after the Sallet was ea<g ref="char:EOLhyphen"/>ten?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> As soone as the Sallet was eaten, the Ma<g ref="char:EOLhyphen"/>ster of the Family tooke the other halfe of the Cake, and broke to every one a peece, saying, This
+<pb facs="tcp:21639:47"/>is the bread of affliction, that our fore-fathers did eate in Egypt, &amp;c.</p>
+            <p>Q, 121. <hi>What did they after that bread was ea<g ref="char:EOLhyphen"/>ten?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Master of the Family tooke the Cup, called the Cup of blessing and gave thankes, and gave it to him that sate next unto him, and he to the next, and so from one to another, till every one had sipt a little.</p>
+            <p>Q 122. <hi>Why was the Cup called the Cup of blessing?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It was called the Cup of blessing, because
+<pb facs="tcp:21639:48"/>it was never used, but when they did assemble themselves together, pub<g ref="char:EOLhyphen"/>likely to blesse and praise God for some great deli<g ref="char:EOLhyphen"/>verance or blessing be<g ref="char:EOLhyphen"/>stowed upon them.</p>
+            <p>Q. 123. <hi>VVhy was the bread called the bread of affliction?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It was called the bread of affliction, to put them in minde, that they were then and there as<g ref="char:EOLhyphen"/>sembled, to praise God for his mercy, in delive<g ref="char:EOLhyphen"/>ring their Fathers out of Egypt, and also for his mercy in delivering them and their Fathers, from
+<pb facs="tcp:21639:48"/>the bondage of sinne and Sathan, and from death eternall, by the promi<g ref="char:EOLhyphen"/>sed Messiah Jesus Christ, whom the Pascall Lamb and the unlevened bread did then represent, unto them, as the bread and wine in the Lords Supper do now unto us.</p>
+            <p>Q. 124. <hi>What did they after that every one had drunke of the Cup?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> As soone as every one had drunke, they did praise God with singing of Psalmes, and then de<g ref="char:EOLhyphen"/>parted every man to his own lodging.</p>
+            <p>
+               <hi>Q.</hi> 125. <hi>VVhere doth
+<pb facs="tcp:21639:49"/>it appeare, that our Sa<g ref="char:EOLhyphen"/>viour Christ and his Disciples had such a ban<g ref="char:EOLhyphen"/>quet?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In the tenth chap<g ref="char:EOLhyphen"/>ter of the Gospel written by Saint <hi>Iohn,</hi> we reade, that when supper was ended, that is, when the Pascall Lamb was eaten, our Saviour Christ did rise and wash his Disci<g ref="char:EOLhyphen"/>ples feet, and that after he had washed their feet, he sate downe with his Dis<g ref="char:EOLhyphen"/>ciples againe, and did eat and drinke, and dip their morsels in the platter.</p>
+            <p>Q. 126. <hi>VVas Iudas
+<pb facs="tcp:21639:49"/>then among the Disci<g ref="char:EOLhyphen"/>ples?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, and was dis<g ref="char:EOLhyphen"/>covered to be a Traytor.</p>
+            <p>Q. 127. <hi>Who did dis<g ref="char:EOLhyphen"/>cover him?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Our Saviour Christ himselfe, when he tould his Disciples that one of them would betray him, and that it was hee, to whom hee gave a sop, which hee tooke, and gave to <hi>Iudas,</hi> whereup<g ref="char:EOLhyphen"/>on Satan entred into him, and he went out imme<g ref="char:EOLhyphen"/>diately.</p>
+            <p>Q. 128. <hi>What did Christ after that Iudas was gone?</hi>
+            </p>
+            <pb facs="tcp:21639:50"/>
+            <p>
+               <hi>A.</hi> Christ did then in<g ref="char:EOLhyphen"/>stitute this Sacrament, which wee call the Lords Supper.</p>
+            <p>Q. 129. <hi>After what manner?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> After the same manner, that the Master of the Family did ob<g ref="char:EOLhyphen"/>serve in the banquet a<g ref="char:EOLhyphen"/>bove mentioned, as first the Master of the family, took bread, gave thanks, and then broke it, and gave it to them that sate at Table with him: so Christ tooke bread, gave thankes, and then broke it and gave it to the Dis<g ref="char:EOLhyphen"/>ciples.</p>
+            <pb facs="tcp:21639:50"/>
+            <p> Q. 130 <hi>To whom, and for what did Christ give thankes?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He gave thankes to God the Father, for his goodnesse in ordaining all that doe truly beseeve in him to eternall life, and in making our everla<g ref="char:EOLhyphen"/>sting Covenant of Grace with them.</p>
+            <p>Q. 131 <hi>It is written, that Christ tooke bread and blessed it, how did he blesse it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Christ blessed the bread, as God the Father blessed the seventh day; God blessed the seventh day by ordaining the
+<pb facs="tcp:21639:51"/>keeping of it holy, to be a meanes to bring a blessing on all them that doe re<g ref="char:EOLhyphen"/>member it, to keep it ho<g ref="char:EOLhyphen"/>ly: even so our Saviour Christ blessed the bread, by ordaining it to bee a meanes, to bring his bles<g ref="char:EOLhyphen"/>sing on all them that doe receive it, according as he did then institute and appoint.</p>
+            <p>Also, by his blessing the bread, wee are to under<g ref="char:EOLhyphen"/>stand, that Christ did pray, and by prayer did obtaine of God, that his blessing shall come on all them that doe receive it according as he did then institute and appoint.</p>
+            <pb facs="tcp:21639:51"/>
+            <p> The example of our Saviour Christ in giving thankes, and in blessing the bread, serveth to teach us, when we are at the Lords Table, to ac<g ref="char:EOLhyphen"/>knowledge the goodnes of God in electing us for his children, and in or<g ref="char:EOLhyphen"/>daining us to eternall life through Jesus Christ, and in making an everlasting Covenant of Grace with us, and to give him hear<g ref="char:EOLhyphen"/>tie thankes, and to pray for his blessing upon our receiving.</p>
+            <p>Q. 132. <hi>Now goe on as you began, to shew af<g ref="char:EOLhyphen"/>ter what manner this ho<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:21639:52"/>Sacrament was institu<g ref="char:EOLhyphen"/>ted and administred by our Saviour Christ?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> As the Master of a Family, when he gave the bread, did say, This is the bread of affliction that our fathers did cate in Egipt: so our Saviour Christ, when he gave the bread, said, This is my body which is broken for you, doe this in re<g ref="char:EOLhyphen"/>membrance of me.</p>
+            <p>As the master of the Family tooke the Cup, and gave thankes, and then gave it to them that sat at Table with him: so Christ tooke the Cup,
+<pb facs="tcp:21639:52"/>gave thankes, and then gave it to his Disciples, saying, drinke you all of this, for this is my blood of the New Testament.</p>
+            <p>Lastly, as the master of the Family, and they that were with him did sing Psalmes, so did our Saviour Christ and his Disciples sing a Psalme.</p>
+            <p>Q. 133. <hi>Now shew what is signified by every thing in the Lords Sup<g ref="char:EOLhyphen"/>per?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The bread doth sig<g ref="char:EOLhyphen"/>nifie the body of Christ: the breaking of the bread doth signifie the break<g ref="char:EOLhyphen"/>ing and tearing of the
+<pb facs="tcp:21639:53"/>Flesh of Christ with the nayles, when they were driven thorow his hands and feet, and with the speare, when it was thrust into his side: The wine doth signifie the Blood of Christ: the giving of the bread and wine, doth signifie, that God doth then seale the Covenant of Grace, and doth offer and freely give Christ, and all his merits to eve<g ref="char:EOLhyphen"/>ry faithfull creature.</p>
+            <p>Qu. 134. <hi>What doth the receiving of the bread and wine signifie?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The receiving of the bread and wine doth
+<pb facs="tcp:21639:53"/>signifie the grace of God in the faithfull, whereby they doe lay hold (by faith) on the Covenant of grace, and doe apply all the promises and grants therein contained, unto themselves, and that they doe receive and take Christ only for their Sa<g ref="char:EOLhyphen"/>viour, and doe renounce all their owne merits.</p>
+            <p>Qu. 135. <hi>What doth the eating of the bread, and drinking of the wine signifie?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Thereby is signifi<g ref="char:EOLhyphen"/>ed the grace of God in the faithfull, whereby
+<pb facs="tcp:21639:54"/>their soules doe feede on Christ.</p>
+            <p>Qu. 136. <hi>How doe their soules feede on Christ?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By beleeving that the body of Christ was crucified, and that his blood was shed for them, and that thereby the wrath of God is pacified, and his justice satisfied.</p>
+            <p>Q. 137. <hi>What is sig<g ref="char:EOLhyphen"/>nified by the comfort, strength and nourish<g ref="char:EOLhyphen"/>ment that the body doth receive from the bread and wine?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Thereby is signi<g ref="char:EOLhyphen"/>fied,
+<pb facs="tcp:21639:54"/>that as the life of man is preserved, com<g ref="char:EOLhyphen"/>fortably, by the vertue that God hath given to the bread, to strengthen the heart, and to wine, to make it glad, <hi>Psal.</hi> 104.10. so Christ by his di<g ref="char:EOLhyphen"/>vine power and grace, doth nourish, comfort and preserve the faithfull to eternall life.</p>
+            <p>Qu. 138. <hi>How ought I to spend the time while the Minister is in deli<g ref="char:EOLhyphen"/>vering the bread and wine?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In regard, that God doth then seale the Covenant of Grace, doe
+<pb facs="tcp:21639:55"/>thou therefore passe thy time in meditating upon the Covenant, and upon the promises and grants therein contained, and apply them to thy selfe, as,</p>
+            <p>First, that God for Christ his sake will for<g ref="char:EOLhyphen"/>give and forget all thy sinnes for ever, if thou dost truly repent thee of thy sinnes, and beleeve in the Lord Jesus.</p>
+            <p>Secondly, if the hard<g ref="char:EOLhyphen"/>nesse of thy heart and dulnesse of thy spirit doth grieve thee, assure thy selfe, that God (in his good time) will take from thee thy stony
+<pb facs="tcp:21639:55"/>heart, and will give thee a new heart, and a new spirit.</p>
+            <p>Thirdly, if want of grace, to remember the word of God, doth grieve thee, assure thy selfe that God will put it into thine inward part, and write it in thine heart, so much as shall be sufficient to thy salvation.</p>
+            <p>Fourthly, if want of grace, to have a comfor<g ref="char:EOLhyphen"/>table feeling of Gods ho<g ref="char:EOLhyphen"/>ly Spirit, to beare wit<g ref="char:EOLhyphen"/>nesse with thy spirit, that thou art a childe of God, doth grieve thee, assure thy selfe, that God (in his good time) will give
+<pb facs="tcp:21639:56"/>thee his holy Spirit, to as<g ref="char:EOLhyphen"/>sure thee, that he is thy God, to defend and pro<g ref="char:EOLhyphen"/>tect thee from all ene<g ref="char:EOLhyphen"/>mies, and thy Father, to provide for thee all things necessary.</p>
+            <p>For the performance of these promises, God must be sought unto by hearty prayer, <hi>Ezech.</hi> 36.37. therefore pray not onely when thou art at the Lords Table, but con<g ref="char:EOLhyphen"/>tinually, and pray in faith without doubting, be<g ref="char:EOLhyphen"/>cause God, who hath made these promises, is a God of truth: Heaven and earth shall passe a<g ref="char:EOLhyphen"/>way, but Gods Word
+<pb facs="tcp:21639:56"/>shall not passe away un<g ref="char:EOLhyphen"/>fulfilled.</p>
+            <p>Also, in regard our Saviour Christ saith, Do this in remembrance of me; therefore faile not to thinke upon Christ, and upon the grievous paine that he endured for thee in his body, when he was scourged, and when the nayles were driven tho<g ref="char:EOLhyphen"/>row his hands and feet, and when he hung blee<g ref="char:EOLhyphen"/>ding on the Crosse, with the waight of his whole body on his hands, which did teare the flesh, and inlarge the holes that the nayles had made in his hands.</p>
+            <pb facs="tcp:21639:57"/>
+            <p> Thinke also upon the torments that Christ suf<g ref="char:EOLhyphen"/>fered in his soule for thee, when he complai<g ref="char:EOLhyphen"/>ned that his soule was heavie, even unto the death, and when in the agony of his soule he did sweat water &amp; blood, and when on the Crosse, hee cryed out, saying, <hi>O God my God, why hast thou for<g ref="char:EOLhyphen"/>saken me.</hi>
+            </p>
+            <p>Let the love of Christ in suffering such grie<g ref="char:EOLhyphen"/>vous pains and torments, move thee to love him againe, and to be truely zealous of his glory, and carefull to serve and please him, in holinesse
+<pb facs="tcp:21639:57"/>and righteousnesse all the dayes of thy life.</p>
+            <p>Lastly, call to minde that when thou wast baptized, thou didst re<g ref="char:EOLhyphen"/>ceive baptisme, not only as a seale of the Cove<g ref="char:EOLhyphen"/>nant of grace, but also as a seale and marke where<g ref="char:EOLhyphen"/>with thou wast sealed and marked for one of Gods Covenant-servants and that thou didst re<g ref="char:EOLhyphen"/>ceive baptisme as an ear<g ref="char:EOLhyphen"/>nest penny, to bind thee unto God, to serve him in holinesse and righte<g ref="char:EOLhyphen"/>ousnesse.</p>
+            <p>If thy conscience doth tell thee, that thou hast broke Covenant with
+<pb facs="tcp:21639:58"/>God, doe not therefore despaire, but repent and beleeve in the Lord Jesus, and (before thou goest from the Lords Table) renue thy Covenant by purposing and resolving with thy selfe, and also by vowing and promi<g ref="char:EOLhyphen"/>sing unto God, that by his grace thou wilt have a care to serve him.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:21639:58"/>
+            <head>Godly Instructions, shewing, how to put every Petition of the Lords Prayer in practice, and how to spend every day in holy meditations, and how to make some spiritull use of the things that we shall see or heare.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S soone as thou art awake in the morning thinke upon the goodnesse of God, in keeping thee, from all perils and dan<g ref="char:EOLhyphen"/>gers
+<pb facs="tcp:21639:59"/>of the night, and in bestowing quiet rest and sleepe upon thee, and give him hearty thankes, and in token of love and thankfulnesse, resolve with thy selfe, by the grace of God, to have a care to serve and please him when thou art up and ready, and love the Lord Jesus, because it is for his sake that God is good unto thee.</p>
+            <p n="2">2. If thou hast had a bad nights rest, acknow<g ref="char:EOLhyphen"/>ledge the goodnesse of God, in that it was not so bad as thou deservest, and with a penitent heart, confesse thy sinnes unto
+<pb facs="tcp:21639:59"/>God, because it is writ<g ref="char:EOLhyphen"/>ten, that man suffereth for sinne, <hi>Lam.</hi> 3.39.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <head>A Prayer for the morning.</head>
+                        <p>O Heavenly Father, forgive me my sins for Christ Jesus his sake, and give me grace to a<g ref="char:EOLhyphen"/>mend my life, keepe mee this day, that no evill come unto mee: keepe me from sinne especially, and from Satan and all his instruments: keepe mee also in health and strength of body and minde: blesse unto me all
+<pb facs="tcp:21639:60"/>thy good creatures that I shall use this day, and give mee grace to use them temperately, and thankfully: blesse also all crosses and troubles unto me, that they may turne to thy glory and my good. Lord guide mee with thy holy Spirit, in<g ref="char:EOLhyphen"/>struct mee with thy holy Word, and prosper mee in every good thing that I shall take in hand to thy glory through Jesus Christ. Amen.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p n="3">3. God onely is the Creator, preserver, Go<g ref="char:EOLhyphen"/>vernour, and disposer of all things in heaven and
+<pb facs="tcp:21639:60"/>earth; therefore be con<g ref="char:EOLhyphen"/>tented with thine estate, how meane soever it be, and trust to Gods provi<g ref="char:EOLhyphen"/>dence, and have God al<g ref="char:EOLhyphen"/>wayes in thy minde, and pray for grace, to set forth the praise and glory of his holy and great Name, according to the meaning of the first Petition of the Lords Prayer.</p>
+            <p n="4">4. Follow not the sway of thy owne cor<g ref="char:EOLhyphen"/>rupt lusts, let not them o<g ref="char:EOLhyphen"/>ver-rule thee, but pray to God to rule and governe thee, by his Word and holy Spirit, according to the meaning of the se<g ref="char:EOLhyphen"/>cond
+<pb facs="tcp:21639:61"/>Petition.</p>
+            <p n="5">5. Make conscience of the least sinne, and take heed of following thine owne will, in any thing, and pray continually for grace to doe Gods holy will, in all things, accor<g ref="char:EOLhyphen"/>ding to the meaning of the the third Petition.</p>
+            <p n="6">6. Abhorre idlenesse and take paines for thy living honestly, in the feare of God: be content with thine estate, how meane so ever it be, trust to Gods providence, and pray continually for such things as thou standest in need of, according to the meaning of the fourth Petition.</p>
+            <p n="7">
+               <pb facs="tcp:21639:61"/> 7. Confesse thy sinnes unto God every day, and pray to God to forgive thee thy sinnes, for Christ his sake; pray also for grace to bee loving and tender-hearted, alwayes ready to forgive such as shall offend thee, even as thou lookest to bee for<g ref="char:EOLhyphen"/>given at Gods hands, ac<g ref="char:EOLhyphen"/>cording to the meaning of the fifth Petition.</p>
+            <p n="8">8. Pray to God every day for grace to amend thy life, and to deliver thee from evill, that is, from the power and poy<g ref="char:EOLhyphen"/>son of sin, Satan, and the World, according to the meaning of the 6. Petitiō.</p>
+            <p n="9">
+               <pb facs="tcp:21639:62"/> 9. When thou art a<g ref="char:EOLhyphen"/>bout to rise, thinke upon our Resurrection in the day of judgement: <hi>They that have done good unto the Resurrection of life, and they that have done evill, to the resurrection of con<g ref="char:EOLhyphen"/>demnation,</hi> Joh. 5, 28, 29.</p>
+            <p n="10">10. When thou art about to put on thy clothes, think upon God and his goodnesse, in providing them for thee, and give him heartie thankes.</p>
+            <p n="11">11. And (to keep thee from being proud of thy clothes) thinke upon the sinfulnesse of thy soule, and vilenesse of thy bo<g ref="char:EOLhyphen"/>dy,
+<pb facs="tcp:21639:62"/>that is under them.</p>
+            <p>If thy clothes be poore and ragged, thanke God for them, because they are more then God doth owe thee, and better then thou deservest, and bee more ashamed of thy sins then of thy clothes, and more carefull, to for<g ref="char:EOLhyphen"/>sake thy sinnes, then to get better clothes.</p>
+            <p n="12">12. When thou art up and ready, pray unto God for his grace and protection, because ma<g ref="char:EOLhyphen"/>ny a one goeth out well in the morning, and hath dyed before night.</p>
+            <p n="13">13. When thou art about to eate, or drinke,
+<pb facs="tcp:21639:63"/>thinke upon God and his goodnesse, in providing food for thee, and desire him, for Christ his sake, to blesse it unto thee, and take heed, that the sinne of gluttony, surfeting, or drunkennesse, doe not steale upon thee, in the time of the eating and drinking.</p>
+            <p n="14">14. When thou art go<g ref="char:EOLhyphen"/>ing about thy businesse, pray unto God, to blesse and prosper thee, because without Gods blessing thy labour is in vaine, <hi>Psal.</hi> 127.</p>
+            <p>Have God alwayes in thy mind, as an eye-wit<g ref="char:EOLhyphen"/>nesse to every thing thou
+<pb facs="tcp:21639:63"/>dost, and that he will one day judge thee according to thy doings.</p>
+            <p n="15">15. When God doth blesse and prosper thee, so as thou dost grow rich, give God thankes and take heed thou settest not thy heart upon thy ri<g ref="char:EOLhyphen"/>ches, and that thou bee not high-minded, nor hard-hearted towards the poore, but shew thy selfe to be a childe of God, in being mercifull, as thy heavenly Father is mer<g ref="char:EOLhyphen"/>cifull.</p>
+            <p n="16">16. If thou beest an hired servant or a poore labourer, strive to be as thankfull unto God for
+<pb facs="tcp:21639:64"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21639:64"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21639:65"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21639:65"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21639:66"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21639:66"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21639:67"/>thy wages, as the rich are for their riches.</p>
+            <p n="17">17. Be faithfull to them whom thou dost serve or worke for, and suffer nothing to bee lost, through thy negligence, as many servants doe their broken bread and meat, which is not onely a losse to their master, but also an offence to the Lord Jesus, who would have all broken meate to be gathered up and saved, that nothing bee lost, <hi>Iohn</hi> 6.12.</p>
+            <p n="18">18. When thou hast bin abroad and art come home safe, forget not to acknowledge and con<g ref="char:EOLhyphen"/>fesse
+<pb facs="tcp:21639:67"/>unto God, his good<g ref="char:EOLhyphen"/>nesse in keeping thee safe, &amp; in providing an home for thee, and above all things, for his goodnesse in providing an everla<g ref="char:EOLhyphen"/>sting home for thee in heaven, where thou shalt rest for ever, in fulnesse of joyes, through Jesus Christ, if thou doft re<g ref="char:EOLhyphen"/>pent and beleeve in him.</p>
+            <p n="19">19. When at home or abroad, thou seest varie<g ref="char:EOLhyphen"/>ty of Gods creatures, pro<g ref="char:EOLhyphen"/>vided for the use of man, doe thou then acknow<g ref="char:EOLhyphen"/>ledge and confesse unto God, his bounty and goodnesse, and love the Lord Jesus with all thine
+<pb facs="tcp:21639:68"/>heart, because it is for his sake that God is so good unto us.</p>
+            <p n="20">20. When thou seest the fowles of the ayre, that have no body to make provision for them in Summer against win<g ref="char:EOLhyphen"/>ter, then thinke upon Gods speciall providence and goodnesse in feeding them in deepe of winter, so as for the most part, they are then fatter then in Summer, and that therefore no childe of God ought to despaire, or the any unlawfull means, will God so provide for the fowles of the ayre, and neglect his owne chil<g ref="char:EOLhyphen"/>dren?
+<pb facs="tcp:21639:68"/>no, no, he cannot doe it.</p>
+            <p n="21">21. When thou seest the beauty, or smellest the sweet savour of some flowers, then thinke up<g ref="char:EOLhyphen"/>on the goodnesse of God in creating them, for our delight and comfort, and reason thus with thy self: if these creatures bee so beautifull and comforta<g ref="char:EOLhyphen"/>ble, much more is God, that made them: happy therefore are they that are in heaven, beholding his glory.</p>
+            <p n="22">22. When thou seest the Flowers, how they wither and perish, then thinke upon thy morta<g ref="char:EOLhyphen"/>litie,
+<pb facs="tcp:21639:69"/>and therewith bee humbled, and admoni<g ref="char:EOLhyphen"/>shed, to prepare and make thy selfe ready for death.</p>
+            <p n="23">23. When thou seest the hearbes how they grow and spring againe, then thinke upon our Resurrection in the day of judgement, they that have done good, unto the Resurrection of life, and they that have done evill, unto the Resur<g ref="char:EOLhyphen"/>rection of condemnati<g ref="char:EOLhyphen"/>on, <hi>Iohn</hi> 5.28, 29. and pray for grace so to live, as thou mayest rise to life eternall, through Jesus Christ.</p>
+            <p n="24">
+               <pb facs="tcp:21639:69"/> 24. When thou seest or dost smell the noy<g ref="char:EOLhyphen"/>some savour of some weeds then thinke upon sinne, how offensive it is to A mighty God, and let the care that some men have to keepe weeds under, put thee in minde how carefull thou shoul<g ref="char:EOLhyphen"/>dest be, to keep sinne un<g ref="char:EOLhyphen"/>der, and not suffer it to raigne and have domini<g ref="char:EOLhyphen"/>on over thee.</p>
+            <p n="25">25. When thou seest it raine, then think upon the providence or God, in laying up water in stores in the clouds to moisten the earth at his pleasure, and praise him. Thinke
+<pb facs="tcp:21639:70"/>then also upon the Word of God, and pray that God would blesse his ho<g ref="char:EOLhyphen"/>ly word to thee, as hee doth the raine unto the earth, <hi>Isai.</hi> 10.11. <hi>Heb.</hi> 6.7.</p>
+            <p n="26">26. When too much raine doth spoile the fruit of the earth, or want of raine doth make it bar<g ref="char:EOLhyphen"/>ren, then think upon thy sinnes, and the sinnes of the land, because they are the cause thereof, <hi>Levit.</hi> 26.19. <hi>Deut.</hi> 28.24. <hi>Amos</hi> 4.7. and re<g ref="char:EOLhyphen"/>pent thee of thy sinnes, and pray for the people, that they also may re<g ref="char:EOLhyphen"/>pent.</p>
+            <p n="27">
+               <pb facs="tcp:21639:70"/> 27. When thou seest it snow, then think upon the blood of Christ, how it washeth thee from thy sinnes, and makes thee whiter then the snow, if by true faith and repen<g ref="char:EOLhyphen"/>tance, thou turne to him, otherwise not, Psalme 51.7.</p>
+            <p n="28">28. When thou hea<g ref="char:EOLhyphen"/>rest it thunder, then think upon the power of God, wherewith he is able to shake both heaven and earth, and feare not the thunder, but God, whose voyce it is, Psal. 29.4.</p>
+            <p n="29">29. When thou seest it lighten, then thinke upon the power of God,
+<pb facs="tcp:21639:71"/>whereby hee is able to burne and consume the whole world, and feare not the lightning, but God, whose arrow it is, and killeth none but whom hee will, Psalme 144.6.</p>
+            <p>Aso, when thou seest it lighten, thinke upon the comming of our Sa<g ref="char:EOLhyphen"/>viour Christ unto judge<g ref="char:EOLhyphen"/>ment, because it is writ<g ref="char:EOLhyphen"/>ten that, <hi>As the lightning commeth from the East, and shineth unto the West, so shall the comming of the Sonne of man be,</hi> Matth. 24.27.</p>
+            <p>The comming of our Saviour Christ to judge<g ref="char:EOLhyphen"/>ment,
+<pb facs="tcp:21639:71"/>is compared to lightning, to shew, that as lightning commeth on the sudden, so shall the comming of our Saviour be, and that as lightning when it shineth into a darke roome, doth make things hid in darkenesse to be seene: so our Sa<g ref="char:EOLhyphen"/>viour Christ, at his com<g ref="char:EOLhyphen"/>ming, will bring to judg<g ref="char:EOLhyphen"/>ment, things that are hid, <hi>and make the counsels of the heart manifest,</hi> 1 Cor. 4.5.</p>
+            <p n="30">30. When thou seest the Sunne, thinke upon thy Saviour Christ Jesus, whom the Sunne doth fitly resemble, in that the <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:21639:72"/>with his beames doth reach and shine through<g ref="char:EOLhyphen"/>out the whole the whole world; so, Christ by his spirit, grace, and power is, and ever will be pre<g ref="char:EOLhyphen"/>sent with the children of God, in all places of the world. Also, as the Sun doth give light and com<g ref="char:EOLhyphen"/>fort to al living creatures, and therefore all living creatures except the hate<g ref="char:EOLhyphen"/>full Batts and Owles, doe love and rejoyce in the Sunne, and doe draw neer unto it: so, our Sa<g ref="char:EOLhyphen"/>viour Christ doth en<g ref="char:EOLhyphen"/>lighten, preserve, and comfort all Gods chil<g ref="char:EOLhyphen"/>dren, and therefore all
+<pb facs="tcp:21639:72"/>the true children of God doe love and rejoce in him.</p>
+            <p n="31">31. When thou feest the Sunne, how it shi<g ref="char:EOLhyphen"/>neth on the good and on the bad, then think upon God thy heavenly Fa<g ref="char:EOLhyphen"/>ther, and examine thy selfe, whether thou bee like to him, in being wil<g ref="char:EOLhyphen"/>ling and ready to doe good unto all, not onely to thy friends, but also to thine enemies, according to the words of our Sa<g ref="char:EOLhyphen"/>viour Christ, Matth. 5.44. <hi>Love your enemies, blesse them that curse you, doe good to them that hate you, that you may be the chil<g ref="char:EOLhyphen"/>dren
+<pb facs="tcp:21639:73"/>of your Father which is in heaven: for hee ma<g ref="char:EOLhyphen"/>keth his Sunne to shine on the evill and on the good.</hi>
+            </p>
+            <p n="32">32. Also when thou seest the Sun how it ne<g ref="char:EOLhyphen"/>ver stands still, be there<g ref="char:EOLhyphen"/>by put in minde of thy duty, never to be idle, nor wearie of well-do<g ref="char:EOLhyphen"/>ing.</p>
+            <p>The Sunne is a hun<g ref="char:EOLhyphen"/>dred and sixe times grea<g ref="char:EOLhyphen"/>ter then the earth: there<g ref="char:EOLhyphen"/>fore with an holy reve<g ref="char:EOLhyphen"/>rence admire the great wisdome and power of God, in creating it of no<g ref="char:EOLhyphen"/>thing.</p>
+            <p n="33">33. When thou seest the Starres, and conside<g ref="char:EOLhyphen"/>rest,
+<pb facs="tcp:21639:73"/>how glorious and beautifull they are, then thinke upon the glory of God, and reason thus, <hi>If these creatures be so glori<g ref="char:EOLhyphen"/>ous and beautifull, much more is God that created them, happy therefore are they, that are in heaven, beholding his glory.</hi>
+            </p>
+            <p>Thinke also, upon the glory of the Saints in heaven, of whom it is written, that they doe shine as Starres for ever and for ever, Dan. 12.13. and love the Lord Jesus, because it is written: <hi>That he will change these our vile bodies, and make them like to his glorious
+<pb facs="tcp:21639:74"/>body,</hi> Philippians 3.21.</p>
+            <p n="34">34. The glorified body of Christ, now in heaven, doth excell the brightest starre in glory: these our vile bodies shall be made like unto his glorious bo<g ref="char:EOLhyphen"/>dy: therefore these our vile bodies, shall excell the brightest starre in glory. Great cause there<g ref="char:EOLhyphen"/>fore have wee to love the Lord Jesus, and to be zea<g ref="char:EOLhyphen"/>lous of his glory.</p>
+            <p n="35">35. When thou art a<g ref="char:EOLhyphen"/>bout to goe to bed, goe to thy prayer, and desire God to forgive thee thy sinnes, and give thee grace to amend thy life, and to receive thee into
+<pb facs="tcp:21639:74"/>his protection, and to be<g ref="char:EOLhyphen"/>stow upon thee quiet rest and sleepe.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <head>A Prayer for the Evening.</head>
+                        <p>O <hi>Most gracious God and loving Father, I doe from my heart ac<g ref="char:EOLhyphen"/>knowledge thy great goodnesse towards mee, in this day past, I doe al<g ref="char:EOLhyphen"/>so acknowledge my selfe to bee unworthy of the least of thy mercies, by reason of my sinnes, for<g ref="char:EOLhyphen"/>give mee my sinne for
+<pb facs="tcp:21639:75"/>Christ his sake, and give me grace to amend what<g ref="char:EOLhyphen"/>soever thou seest to be a<g ref="char:EOLhyphen"/>misse in mee, and for Christ his sake keepe me this night that no evill come unto me, and be<g ref="char:EOLhyphen"/>stow upon mee quiet rest and sleepe, to refresh my weake body, to make mee stronger, and more fit to serve thee, to thy glory through Christ Iesus, Amen.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p n="36">36. If thy bed and bedding, and the roome be good give God thanks if thy roome be meane
+<pb facs="tcp:21639:75"/>and cold, thy bed hard, and thy clothes few, bee thankefull to God, be<g ref="char:EOLhyphen"/>cause it is better than thou deservest, and more than GOD doth owe thee.</p>
+            <p n="38">38. When thou art laid in bed to sleep, think upon death and upon thy going to thy grave. Be<g ref="char:EOLhyphen"/>cause death is compared to a sleep, Matth. 9.24. and the grave to a bed, Isai. 55.2. And in regard thou art not sure to live till morning, it standeth thee upon, to thinke up<g ref="char:EOLhyphen"/>on thy sinnes, and with a penitent heart, to con<g ref="char:EOLhyphen"/>fesse them unto God, and
+<pb facs="tcp:21639:76"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21639:76"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21639:77"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21639:77"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21639:78"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21639:78"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21639:79"/>desire God for Christ his sake, to forgive thee thy sinnes, and to give thee grace to amend thy life.</p>
+            <p n="39">39. When thou hast confessed thy sinnes, and prayed for mercy and grace to amend, passe thy time till sleepe come, as the Spouse of Christ did, By night on her bed, shee fought for him whom her soule loved, her Saviour Christ, <hi>Cant.</hi> 3.1.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:21639:79"/>
+            <head>OF CHRISTS walking in the middest <hi>of the seven golden Candlesticks.</hi>
+            </head>
+            <p>Q. 1. <hi>VVhere is Christ to be found?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Thou shalt bee sure to find Christ, every Lords day in the Church walking in the midst of the seven golden Can<g ref="char:EOLhyphen"/>dlesticks, holding the 7. starrs in his right hand, &amp;
+<pb facs="tcp:21639:80"/>walking in the midst of the golden Candlesticks, <hi>Rev.</hi> 2.1. to see who are true worshippers of God, that he may blesse them, and who are not, that hee may give them their portion with the hipocrites in the lake that burneth with fire and brimstone.</p>
+            <p>Q. 2. <hi>What is meant by the seven Starres?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The seven starres were the preachers of the Gospell in the seven Churches of Asia: now (that they are not) we are to understand by the se<g ref="char:EOLhyphen"/>ven starres, all faithfull
+<pb facs="tcp:21639:80"/>preachers of the Gos<g ref="char:EOLhyphen"/>pell, throughout the whole world.</p>
+            <p>Q. 3. <hi>Why are they called Starres?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are called starres because of the light that they doe give unto the world, by their doctrine and good life. Mat. 5.14.</p>
+            <p>Quest. 4. <hi>Why is Christ said to hold them in his right hand?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Christ is said to hold them in his right hand, because he doth by his holy Spirit keepe them from falling into errors, and doth protect
+<pb facs="tcp:21639:81"/>them by his Divine pow<g ref="char:EOLhyphen"/>er from all enemies, so farre as his holy Majesty doth see it fit for his owne glory.</p>
+            <p>Q. 5. <hi>What is meant by the seven golden Candlesticks?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The seven gol<g ref="char:EOLhyphen"/>den Candlesticks, were the seven Churches of Asia: now (that they are not) we are to under<g ref="char:EOLhyphen"/>stand every true Chri<g ref="char:EOLhyphen"/>stian Congregation throughout the whole world, where God is truely worshipped.</p>
+            <p>Q. 6. <hi>Why are they called Candlesticks?</hi>
+            </p>
+            <pb facs="tcp:21639:81"/>
+            <p>
+               <hi>A.</hi> They are called Candlesticks to shew, that as a Candlestick doth beare and hold the candle to give light to such as have eyes to see: even so every Christian congregation, doth bear and hold forth, and pub<g ref="char:EOLhyphen"/>lish to the world, the light of the glorious Gospell of Christ Iesus, by preaching and main<g ref="char:EOLhyphen"/>taining it, and by pro<g ref="char:EOLhyphen"/>fessing the Christian faith. Also they may be compared to Candle<g ref="char:EOLhyphen"/>stickes to shew, that as a Candlesticke of it selfe hath no light in it; the light that it hath is put
+<pb facs="tcp:21639:82"/>into it, even so is it with every true Christian con<g ref="char:EOLhyphen"/>gregation, the light that every branch &amp; member thereof hath, is put into them by Christ Iesus, that dwelleth in them by his word &amp; holy Spirit.</p>
+            <p>
+               <hi>Q.</hi> 7. <hi>Why are they cal<g ref="char:EOLhyphen"/>led golden Candlesticks</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are called golden Candlesticks, to shew that as gold is the most excellent of all mettals, so every true Christian congregation, where God is truely worshipped, is the most excellent of all societies,
+<pb facs="tcp:21639:82"/>and companies of men in the world.</p>
+            <p>Q 8. <hi>Wherein doe they excell all other so<g ref="char:EOLhyphen"/>cieties and companies?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They doe excell all others in the graces of Gods holy Spirit, they are also compared to golden Candlesticks to shew that as men doe make more reckoning of true Christians, than of any other people, and as men doe make gold their chiefest treasure and have a care to keepe it
+<pb facs="tcp:21639:83"/>safe, so is every true wor<g ref="char:EOLhyphen"/>shipper of God unto Christ, his chiefe trea<g ref="char:EOLhyphen"/>sure, that he hath a care of, therefore goe not in<g ref="char:EOLhyphen"/>to the holy Congregati<g ref="char:EOLhyphen"/>on as the hypocrites doe to abuse the holy and great Name of Almigh<g ref="char:EOLhyphen"/>ty God, by taking it in vaine, even then, when they seeme to joyne with the congregation, in the true worship and service of God.</p>
+            <p>Q. 9. <hi>Wherein doe they then abuse and take the name of God in vaine?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They doe abuse it,
+<pb facs="tcp:21639:83"/>and take it in vaine, in that they doe not minde what they doe, all that they doe is but an out<g ref="char:EOLhyphen"/>ward shew of drawing neere unto God with their lips, having their hearts farre from him.</p>
+            <p>Q. 10. <hi>How doth that appeare?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It appeareth plain<g ref="char:EOLhyphen"/>ly by their sleeping, and by their whispering, and talking, and looking on this body, and on that body, when the word of God is read or preached unto them.</p>
+            <p>It appeareth also in that they doe not lift
+<pb facs="tcp:21639:84"/>up their hearts unto God when they pray, as the Prophet <hi>David</hi> did, Psal. 25. nor so much as think upon his holy and glori<g ref="char:EOLhyphen"/>ous Majesty, to speake with reverence unto him.</p>
+            <p>Q. 11. <hi>Wherein doth their want of reverence appeare?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It appeareth plain<g ref="char:EOLhyphen"/>ly by their leaning lazi<g ref="char:EOLhyphen"/>ly on their elbowes, and by their sitting unreve<g ref="char:EOLhyphen"/>rently in time of prayer notwithstanding that the minister, doth put them in mind of knee<g ref="char:EOLhyphen"/>ling in the Liturgie, out of the 59. Psalme. <hi>O
+<pb facs="tcp:21639:84"/>come let us worship, and fall downe, and kneele be<g ref="char:EOLhyphen"/>fore the Lord our Maker.</hi> None but God knoweth whither for this great sin of abusing and taking the name of God in vain in time of Gods publique worship and service. God hath shewed fearefull Iudgements, and tokens of his wrath upon Chur<g ref="char:EOLhyphen"/>ches, as appeareth by multitudes of Letters Patents, granted for the gathering of the be<g ref="char:EOLhyphen"/>nevolence of well dis<g ref="char:EOLhyphen"/>posed Christians for the repairing of Churches rent and spoiled with lightning and thundring
+<pb facs="tcp:21639:85"/>since the beginning of Queene <hi>Elizabeths</hi> raign especially on the 21. of October last, 1638. the parish Church of With<g ref="char:EOLhyphen"/>combe in Devon-shire, being a faire and large Church, newly trimmed, having a very faire stee<g ref="char:EOLhyphen"/>ple like a Tower with great and small pinacles, one of the famousest Towers in the West part of England; there fell (in time of divine Ser<g ref="char:EOLhyphen"/>vice) a strange and great darkenesse, so as the peo<g ref="char:EOLhyphen"/>ple could not see one a<g ref="char:EOLhyphen"/>nother, and a fearefull Thunder, much like the noyse or report of many
+<pb facs="tcp:21639:85"/>great Canons, and a fear<g ref="char:EOLhyphen"/>full lightning and loath<g ref="char:EOLhyphen"/>some smell like brim<g ref="char:EOLhyphen"/>stone, and a strange and fearefull blast, that struck in at the North-side of the Towre, and tearing through a strong stone wall, came into the Church through the highest window, and tooke the greatest part thereof with it, and with a mightie power strucke against the North side wall of the Church, and did shake and batter the wall very much, threatning as though it would cast it downe, and then went towards the
+<pb facs="tcp:21639:86"/>Pulpet, and in the way tooke with it the lime and sand from the wall, and grated the stones and defaced the wall be<g ref="char:EOLhyphen"/>ing newly trimmed, and tore away the side deske of the Pulpet, and colou<g ref="char:EOLhyphen"/>red the Pulpet with black and left it moist, as if it had beene newly wiped over with inke.</p>
+            <p>The lightning did fright the people and scalded them, so as most part of them fell downe, some on their knees, some on their faces, some one upon another, crying.</p>
+            <p>The Ministers wife
+<pb facs="tcp:21639:86"/>had her ruffe and linnen next her body burnt cleane off, and her body grievously schorched.</p>
+            <p>One Mistris <hi>Ditford</hi> sitting in the seat with her had her gowne, two wastcoates, and her lin<g ref="char:EOLhyphen"/>nen next her body burnt cleane off, and her body grievously scorched.</p>
+            <p>An other woman run<g ref="char:EOLhyphen"/>ning out of the Church had her clothes set on fire, and her body scor<g ref="char:EOLhyphen"/>ched, and her flesh torne on her back.</p>
+            <p>A dog neere the chan<g ref="char:EOLhyphen"/>cell doore was whirld up three times, and fel down dead.</p>
+            <pb facs="tcp:21639:87"/>
+            <p> One Master <hi>Hill</hi> a gentleman, had his head smit against the wall, and died that night.</p>
+            <p>Sir <hi>Richard Reynolds</hi> Warrener, had his head cloven, his scull rent into three pieces, whereof two fell into the next seate, the other fell down in the seat where he sate; his braines fell intire and whole into the next seat behind him, his blood dasht against the wall: some of the skin of his head, flesh and haire, to the quantitie of an hand<g ref="char:EOLhyphen"/>full was carried into the Chancell, and stuck fast, as with lime and sand
+<pb facs="tcp:21639:87"/>newly tempered, upon one of the posts between the Church and the Chancell, his body was left in the seat as though it had been alive, sitting asleepe, leaning upon his elbow, his elbow resting on the deske before him, with the fore-part of his head and face whole, as some say.</p>
+            <p>A man that sate next to him in the same seate was scolded and burnt all over on that side next the Warrenner.</p>
+            <p>In the second seat be<g ref="char:EOLhyphen"/>hind the Warrenner, an other man in a most grievous manner was
+<pb facs="tcp:21639:88"/>burnt and scalded all o<g ref="char:EOLhyphen"/>ver his bodie, from his head downwards below his knees, so as he was all over like raw flesh, and his cloathes nothing hurt, nor his head and haire, and lived in great misery about a weeke.</p>
+            <p>Some seates in the bo<g ref="char:EOLhyphen"/>dy of the Church were torne up, and turned up<g ref="char:EOLhyphen"/>side downe, and they that sate in them, had no harme, notwithstan<g ref="char:EOLhyphen"/>ding that they were throwne out of them in<g ref="char:EOLhyphen"/>to other seates three or foure seates higher: a<g ref="char:EOLhyphen"/>bout the number of eight boyes setting about the
+<pb facs="tcp:21639:88"/>railes of the Communi<g ref="char:EOLhyphen"/>on Table were taken up and throwne on heapes within the railes and had no hurt: A man sitting on the Church beere, at the lower end of the Church, the beere was struck and torne, and the man throwne into a seat by the wall side, and had no hurt: a beame broke in the middle and fell be<g ref="char:EOLhyphen"/>tweene the minister and the clarke and hurt nei<g ref="char:EOLhyphen"/>ther.</p>
+            <p>The Church was very much defased and torne, a great stone neere the foundation or the Church was torne out
+<pb facs="tcp:21639:89"/>and removed: stones were throwne from the Tower as thicke as if an hundred men had beene there throwing them, some of such waight and bignesse as no man was able to lift.</p>
+            <p>One of the Pinnacles of the Tower was throwne downe into the Church: the pillar a<g ref="char:EOLhyphen"/>gainst which the Pulpet standeth, being newly whited was made black: the roofe of the Church was tome, and a great part thereof broke into the Church: a bowling<g ref="char:EOLhyphen"/>alley neere the Church<g ref="char:EOLhyphen"/>yard was turned up into
+<pb facs="tcp:21639:89"/>pits and holes.</p>
+            <p>A little before night some went into the Church to fetch out the dead bodies, and found two little children wal<g ref="char:EOLhyphen"/>king hand in hand, and had no hurt, and seemed by their countenance to be nothing frighted.</p>
+            <p>The fearefull Iudge<g ref="char:EOLhyphen"/>ments and tokens of Gods wrath doe serve to admonish all, both men and women, young and old, poore and rich, of two things, first not to dare to appeare before God in their sinnes with<g ref="char:EOLhyphen"/>out repentance: second<g ref="char:EOLhyphen"/>ly (when they are come
+<pb facs="tcp:21639:90"/>into his holy presence) to worship him reverently both in body and in Spi<g ref="char:EOLhyphen"/>rit without hipocrisie.</p>
+            <p>Also for as much as children, out of their pa<g ref="char:EOLhyphen"/>rents sight, and servants out of their masters sight, doe trouble and of<g ref="char:EOLhyphen"/>fend many with their talking, laughing, and unreverent behaviour, wherewith they doe dis<g ref="char:EOLhyphen"/>honour and provoke God to wrath, that ther<g ref="char:EOLhyphen"/>fore parents would sanctifie and prepare their children, and ma<g ref="char:EOLhyphen"/>sters their servants, before they bring them to ap<g ref="char:EOLhyphen"/>peare before the Lord
+<pb facs="tcp:21639:90"/>their God, as God com<g ref="char:EOLhyphen"/>manded Moses to sancti<g ref="char:EOLhyphen"/>fie the people, and that the people should wash their clothes before they came to heare the Lord, when hee did publish the Law upon Mount Sinai: Exod. 19.</p>
+            <p>Q. 12. <hi>How did Moses sanctifie the people?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Moses did sancti<g ref="char:EOLhyphen"/>fie them by praying to God for them, and by teaching them how to appeare before God, in true faith and repentance and how to behave themselves reverently, and to harken with holy
+<pb facs="tcp:21639:91"/>reverence unto the Lord speaking unto them; so ought parents to sancti<g ref="char:EOLhyphen"/>fie their children, and masters their servants.</p>
+            <p>Qu. 13. <hi>Why did God command that the people should wash their clothes?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Sinne is a loath<g ref="char:EOLhyphen"/>some filthinesse in the sight of God, Mal. 2.15.20. Repentance is com<g ref="char:EOLhyphen"/>pared to washing and making cleane, Isa. 1.16. Ier. 7.3. The meaning of Almighty God, in com<g ref="char:EOLhyphen"/>manding that the people should wash their cloaths was to shew that hee
+<pb facs="tcp:21639:91"/>would not have them to appeare before him in their sinnes, but would have them to repent them of their sinnes, and lead a new life, and give an outward signe and to<g ref="char:EOLhyphen"/>ken thereof by appearing before him in cleane cloathes. Hence it is that the people of God have ever since put on cleane aloathes when they goe to the publique assembly to worship God.</p>
+            <p>Q. 14. <hi>What is this to us?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> This serveth to teach us when wee put off our old, or foule
+<pb facs="tcp:21639:92"/>cloathes, to thinke upon our sinnes, wherewith wee have defiled our selves, and bee ashamed and afraid to appeare in our sinnes before God, on the Lords day, who dyed for our sinnes, and rose againe for our Iusti<g ref="char:EOLhyphen"/>fication.</p>
+            <p>Q. 15. <hi>Why doth God begin the fourth Commandement with a memento; Remember the Sabboth day, which charge is not in any of the other Commande<g ref="char:EOLhyphen"/>ments?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God doth give his people charge to re<g ref="char:EOLhyphen"/>member
+<pb facs="tcp:21639:92"/>the Sabboth day, to shew that hee doth make great recko<g ref="char:EOLhyphen"/>ning of keeping it holy, and therefore would have his people to re<g ref="char:EOLhyphen"/>member it before it comes, that they may prepare themselves and dispose of their affaires so, as they may attend the duties of the Sab<g ref="char:EOLhyphen"/>both.</p>
+            <p>Q 16. <hi>Is the Com<g ref="char:EOLhyphen"/>mandement laid upon all alike?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, the greatest charge is laid upon pa<g ref="char:EOLhyphen"/>rents that have children, and upon masters that
+<pb facs="tcp:21639:93"/>have servants.</p>
+            <p>Q. 17. <hi>Are Magi<g ref="char:EOLhyphen"/>strates exempted?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, the Magi<g ref="char:EOLhyphen"/>strate above all is bound to obey and to have a care of the Sabboth, as <hi>Nehemiah</hi> had, chap. 13.14. For as the loadstone draweth iron, so the ma<g ref="char:EOLhyphen"/>gistrates example doth draw the people: when <hi>Ieroboam</hi> forsooke the Law of the Lord, hee led away all Israell with him, 2 Chronicles 12. when <hi>Asa</hi> swore to seek the Lord, the people sought the Lord with him.</p>
+            <pb facs="tcp:21639:93"/>
+            <p> Q. 18. <hi>What reasons can you shew to move men to remember the Sabboth day to keepe it holy?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God himselfe set<g ref="char:EOLhyphen"/>teth downe five strong reasons or arguments.</p>
+            <p>Q. 19. <hi>What is the first?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The first is drawn from the goodnesse of God in allowing us sixe dayes, and in reserving but one for himselfe.</p>
+            <p>Q. 20. <hi>What is the second?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The second is drawne from the autho<g ref="char:EOLhyphen"/>rity
+<pb facs="tcp:21639:94"/>of God, to com<g ref="char:EOLhyphen"/>mand, and power to pu<g ref="char:EOLhyphen"/>nish such as will not obey as he is the Lord.</p>
+            <p>Q. 21. <hi>What is the third?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The third is in these words, <hi>Thy God,</hi> which may bee framed thus. The people with whom I have made a Covenant to bee their God, and have chosen to be my people ought to serve mee; but I have made a Covenant with you and have chosen you to bee my people, and have appointed the seventh day for my ser<g ref="char:EOLhyphen"/>vice:
+<pb facs="tcp:21639:94"/>therefore you ought to remember the seventh day to keepe it holy for my service.</p>
+            <p>Q. 22. <hi>What is the fourth?</hi>
+            </p>
+            <p>The fourth is in these words, <hi>The Lord blessed the seventh Day,</hi> which may bee framed thus, the day that I, the Lord your God have blessed, that is, the day that I have appointed to bee a means to bring my bles<g ref="char:EOLhyphen"/>sing on them that doe remember it to keepe it holy, you ought to re<g ref="char:EOLhyphen"/>member, to keepe holy: but the seventh day is
+<pb facs="tcp:21639:95"/>the day that I have ap<g ref="char:EOLhyphen"/>pointed to bee a meanes to bring my blessing on them that doe remem<g ref="char:EOLhyphen"/>ber it, to keepe it holy: therefore (as you desire my blessing) you ought to remember the seventh day to keepe it holy.</p>
+            <p>Q. 23. <hi>What is the fift.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The fift is in these words, <hi>and hallowed it,</hi> which may be thus fra<g ref="char:EOLhyphen"/>med, the day that I the Lord your God have hal<g ref="char:EOLhyphen"/>lowed, that is, set apart to bee kept holy, and that I have appointed to bee a means to sanctifie them,
+<pb facs="tcp:21639:95"/>that doe remember it to keepe it holy, ought to be remembred, and kept holy: but the seventh day is the day that I have set apart to be kept holy, and that I have ap<g ref="char:EOLhyphen"/>pointed to bee a meanes to sanctifie them that do remember it to keepe it holy: therefore as you desire to bee Saints mili<g ref="char:EOLhyphen"/>tant here upon earth, and Saints triumphant in Heaven for ever, remem<g ref="char:EOLhyphen"/>ber the seventh day to keepe it holy.</p>
+            <p>Q. 24. <hi>What is it to keepe holy the seventh day?</hi>
+            </p>
+            <pb facs="tcp:21639:96"/>
+            <p>
+               <hi>A.</hi> To keepe holy the seventh day, is to rest upon it from our owne workes, wills, wayes, and words, and to spend it in holy exercises.</p>
+            <p>Q. 25. <hi>How ought we to rest?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The rest ought to bee first inward in the heart, from thinking, musing, and plodding upon worldly businesses, profits and carnall plea<g ref="char:EOLhyphen"/>sures.</p>
+            <p>Q. 26. <hi>What are the things that wee ought to thinke upon on the se<g ref="char:EOLhyphen"/>venth day?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> For as much as the
+<pb facs="tcp:21639:96"/>seventh day is to be kept holy in honour of God the Father, wee ought therefore to thinke upon his holy Majesty, and upon his gooddesse to<g ref="char:EOLhyphen"/>wards us, in creating all things in heaven and in earth next to his owne glory to serve us, and us to serve him, and to praise him for the same. God is not as a Carpen<g ref="char:EOLhyphen"/>ter, that maketh an house for another body, and when he hath done takes no more care of it. God hath from the beginning and will to the end of the world, shew his eternall Wisedome, Power, Iu<g ref="char:EOLhyphen"/>stice,
+<pb facs="tcp:21639:97"/>Mercy, Truth Pro<g ref="char:EOLhyphen"/>vidence and Goodnesse, in preserving, governing and disposing of all things to his owne glory and good of his people: therefore wee ought to thinke and consider, that God is not only the Cre<g ref="char:EOLhyphen"/>ator, but also the preser<g ref="char:EOLhyphen"/>ver, governor, and dispo<g ref="char:EOLhyphen"/>ser of all things, and to praise him for the same.</p>
+            <p>Q. 27. <hi>What is our duty towards God, as hee is the Creator of all things?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Our duty is, to
+<pb facs="tcp:21639:97"/>acknowledge him to bee Lord and owner of all things, and for his sake have a care not to abuse, nor cruelly to handle a<g ref="char:EOLhyphen"/>ny living creature, no not such as are hurtfull, and which wee may lawfully hurt and destroy; wee ought to shew mercy on them when they fall into our hands, by ridding them out of their lives as soone as we can, and not to sport our selves with tormenting them, as ma<g ref="char:EOLhyphen"/>ny hard hearted wretches do most cruelly: a thing unseemly in the children of God, that ought to be mercifull, as their Hea<g ref="char:EOLhyphen"/>venly
+<pb facs="tcp:21639:98"/>father is mercifull.</p>
+            <p>Q 28. <hi>What is our duty towards God, as he is our Creator?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Our duty is, to be wel cōtented with that shape &amp; proportiō of body, &amp; faculty of soule wherein he hath created us.</p>
+            <p>They that are of a com<g ref="char:EOLhyphen"/>ly shape and proportion, and well favoured, ought not to beproud, nor loath scorne, nor mocke them that are deformed or ill favoured, but rather bee moved upon sight of them with thankefull hearts to praise God, for not making them so de<g ref="char:EOLhyphen"/>formed,
+<pb facs="tcp:21639:98"/>and ill favoured.</p>
+            <p>Q. 29. <hi>What is our duty towards God as he is the preserver of all things?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Our duty is to take notice of his Wise<g ref="char:EOLhyphen"/>dome, Power, Provi<g ref="char:EOLhyphen"/>dence, and Goodnesse; and to praise him for the same, especially for his Goodnesse in preserving us from the houre that wee were borne till this houre, and for the hope that wee have that he will preserve us to e<g ref="char:EOLhyphen"/>ternall life, through Ie<g ref="char:EOLhyphen"/>sus Christ.</p>
+            <p>Q. 30. <hi>What is our duty towards God, as hee
+<pb facs="tcp:21639:99"/>is governour and dispo<g ref="char:EOLhyphen"/>ser of all things?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Our duty is to bee ruled and governed by him, and to be well con<g ref="char:EOLhyphen"/>tented with that estate of life wherein it pleaseth his holy Majesty to place us, how meane soever it be, and patiently to beare whatsoever shall please his holy Majesty to lay upon us, either for our sinnes or for our triall.</p>
+            <p>These things we ought to think upon every day, especially on the Lords day.</p>
+            <p>Q. 31. <hi>What other things ought we to think
+<pb facs="tcp:21639:99"/>upon on the Lords day?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Wee ought with loving and thankefull hearts to think upon our Saviour Christ, and upon those things that he hath suffered and done for us, and therewith comfort our selves, and stirre up our hearts to rejoyce in him, and praise his holy and great name.</p>
+            <p>Also for as much as the seventh day was or<g ref="char:EOLhyphen"/>dained for the publicke worship and service of God, we ought therefore to thinke upon the wor<g ref="char:EOLhyphen"/>ship and service of God, and of the time of assem<g ref="char:EOLhyphen"/>bling therunto, and have
+<pb facs="tcp:21639:100"/>a care by holy meditati<g ref="char:EOLhyphen"/>ons and prayer that God would prepare and make us fit to joyne with the congregation in that part of Gods worship that is then in hand; as, if the Minister bee rea<g ref="char:EOLhyphen"/>ding, or preaching, wee ought then to hearken diligently with reve<g ref="char:EOLhyphen"/>rence, or if the Minister and people bee praying, and singing of Psalmes, we ought then presently to joyne with them.</p>
+            <p>Q. 32. <hi>What ought we chiefly to think upon during the time that we are in the publike assem<g ref="char:EOLhyphen"/>bly?</hi>
+            </p>
+            <pb facs="tcp:21639:100"/>
+            <p>
+               <hi>A.</hi> We ought then to thinke and consider, that we are in an heaven up<g ref="char:EOLhyphen"/>on earth, and in the pre<g ref="char:EOLhyphen"/>sence of the holy Trini<g ref="char:EOLhyphen"/>ty, and of the holy An<g ref="char:EOLhyphen"/>gels and Saints militant.</p>
+            <p>Q. 33. <hi>Where doe you finde, that the place where God is truly wor<g ref="char:EOLhyphen"/>shipped here on earth, is called heaven?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In the twelfth chapter of the Revelati<g ref="char:EOLhyphen"/>on, the first, third, and se<g ref="char:EOLhyphen"/>venth verses, mention is made of three greatwon<g ref="char:EOLhyphen"/>ders in heaven; the first is a Woman cloathed with the Sunne; the se<g ref="char:EOLhyphen"/>cond
+<pb facs="tcp:21639:101"/>is a great red dra<g ref="char:EOLhyphen"/>gon, having seven heads and ten hornes, and se<g ref="char:EOLhyphen"/>ven crownes upon his head; the third is a bat<g ref="char:EOLhyphen"/>tell fought in heaven be<g ref="char:EOLhyphen"/>tweene Michael and his Angels, and the Dragon and his Angels: by hea<g ref="char:EOLhyphen"/>ven there is meant, not the highest heaven, where God is in his Kingdome of glory, for there is no such Dragon, nor battell, therefore by heaven in that place is meant, the place where the true worshippers of God have their being, and doe assemble them<g ref="char:EOLhyphen"/>selves to worship God publikely.</p>
+            <pb facs="tcp:21639:101"/>
+            <p> Q. 34 <hi>What is meant by the woman, and by the Sunne wherewith shee is clothed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the woman is meant the true Church of Christ, which is often in the Scriptures called his wife, and Spouse: by the Sunne is meant Iesus Christ. Mal. 4.2. whose righteousnesse imputed to them that doe truly repent and beleeve in him, doth serve as a gar<g ref="char:EOLhyphen"/>ment wherewith their sinnes are covered and kept from rising up in Iudgement to condemne them.</p>
+            <pb facs="tcp:21639:102"/>
+            <p> Q. 35. <hi>What is meant by the Dragon?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the Dragon is meant the Devill, in the persecuting heathen Em<g ref="char:EOLhyphen"/>perours, and in Anti<g ref="char:EOLhyphen"/>christ.</p>
+            <p>Q 36. <hi>What is meant by the battell?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the battell is meant persecutions and warre raised by the hea<g ref="char:EOLhyphen"/>then Emperors, and by Antichrist, against the Truth and professors thereof.</p>
+            <p>Q. 37. <hi>VVhere doe you finde that the holy Trinity, and the holy
+<pb facs="tcp:21639:102"/>Angels are in the place, where God is truly wor<g ref="char:EOLhyphen"/>shipped?</hi>
+            </p>
+            <p>A. In the fourth chap<g ref="char:EOLhyphen"/>ter of the Revelation, and the second and third verses mention is made of a Throne in heaven, and of one sitting on the Throne: by heaven is meant the place where God is truly worshipped, by the Throne is meant the hearts and conscien<g ref="char:EOLhyphen"/>ces of the true worship<g ref="char:EOLhyphen"/>pers of God; he that sit<g ref="char:EOLhyphen"/>teth on the Throne is the first Person in the holy Trinity, God the Father, whose admirable
+<pb facs="tcp:21639:103"/>glory and beauty is com<g ref="char:EOLhyphen"/>pared to two of the most pretious stones under the Sunne, a Jasper and a Sardine.</p>
+            <p>Q. 38. <hi>VVherein doth the glory and beau<g ref="char:EOLhyphen"/>ty of God shew it selfe unto the true worship<g ref="char:EOLhyphen"/>pers?</hi>
+            </p>
+            <p>A. The holy Word of God, when it is read, or preached is as a cleare christall glasse wherein they doe behold the glo<g ref="char:EOLhyphen"/>ry and beauty of God to their unspeakeable joy.</p>
+            <p>Q. 39. <hi>VVhy are the hearts and consciences of the true worshippers
+<pb facs="tcp:21639:103"/>of God compared to a Throne or Chaire of State?</hi>
+            </p>
+            <p>A. They are compa<g ref="char:EOLhyphen"/>red to a Throne or Chaire of State to shew that God who is the King of kings hath his dwelling and resting place in them, and that he as King doth rule and governe them by his Word and holy Spirit. Psal. 132.13.14.</p>
+            <p>Q. 40. <hi>Mention is made in the fourth ver. of twenty foure Elders sitting upon seates round about the Throne, clo<g ref="char:EOLhyphen"/>thed
+<pb facs="tcp:21639:104"/>in white rayment, having Crownes of gold upon their heads, what is meant by the twenty foure Elders?</hi>
+            </p>
+            <p>A. The twenty foure Elders are the true wor<g ref="char:EOLhyphen"/>shippers of God, who are said to be twenty foure, because of the type that was of them in the Pro<g ref="char:EOLhyphen"/>phet David, who had foure and twen<g ref="char:EOLhyphen"/>ty thousand servants tending upon him monthly, 1 Chro. 27.1.</p>
+            <p>Q 41. <hi>VVhy are they said to be round about the Throne where God the
+<pb facs="tcp:21639:104"/>Father sitteth?</hi>
+            </p>
+            <p>A. They are said to be round about the Throne toshew that they are neer &amp; deer unto God &amp; that they have God alwaies dwelling with them, ac<g ref="char:EOLhyphen"/>cording to his promise, 2 Cor. 6.26. even in the midst of them to defend them from all enemies, Zeph. 3 17.</p>
+            <p>Q. 42. <hi>VVhat is signified by their crownes of Gold.</hi>
+            </p>
+            <p>A. Their crownes of Gold doe signifie, that Christ hath made them kings, chap. 1.6.</p>
+            <p>Q. 43. <hi>VVhat is sig<g ref="char:EOLhyphen"/>nified by their white rai<g ref="char:EOLhyphen"/>ment?</hi>
+            </p>
+            <pb facs="tcp:21639:105"/>
+            <p> A. Their white ray<g ref="char:EOLhyphen"/>ment signifieth the holi<g ref="char:EOLhyphen"/>nesse and righteousnesse of Christ imputed un<g ref="char:EOLhyphen"/>to them. Also for as much as the Priests in the time of the Law did weare white linnen, ther<g ref="char:EOLhyphen"/>fore their white gar<g ref="char:EOLhyphen"/>ments did signifie that Christ hath made them Priests to offer unto God the sacrifice of thankes and praise, as wee may gather out of their owne confession, chap. 5.10. <hi>Thou hast made us unto our God Kings and Priests, and we shall raigne on the earth</hi> meaning over sinne, so as it shall not have domini<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:21639:105"/>over them.</p>
+            <p>
+               <hi>Q.</hi> 44. <hi>It is said in the fourth chapter, and latter end of the sixt verse, that there were foure beasts round about the Throne, what was sig<g ref="char:EOLhyphen"/>nified by the beasts?</hi>
+            </p>
+            <p>A. The foure beasts did signifie the faithfull preachers of the Gospell.</p>
+            <p>Q. 45. <hi>Why are they said to be foure?</hi>
+            </p>
+            <p>A They are said to be foure, because they are to preach the Gospell in all the foure quarters of the world.</p>
+            <p>Q. 46. <hi>Why are they
+<pb facs="tcp:21639:106"/>said to be full of eyes, and to have each of them six wings, and that the first is like a Lyon, the second like a Calfe, and the third had a face like a man, and the fourth was like to a flying Eagle. chap.</hi> 4.6.7.8.</p>
+            <p>A. They are said to be full of eyes, to shew that they ought to bee as Job was, <hi>an eye to the blind and ignorant,</hi> Job 29.15. and to shew that they ought to be watchfull and full of knowledge, able to teach, exhort, rebuke, and convince.</p>
+            <pb facs="tcp:21639:106"/>
+            <p> They are said to have wings, to shew that they ought not to bee slow, but swift, and ready to minister a word in sea<g ref="char:EOLhyphen"/>son, to strengthen the weake, to confirme the strong, to raise up the fallen, to bind up the bro<g ref="char:EOLhyphen"/>ken hearted, to beate downe the lofty, to seeke what is lost, and to bring home the stray.</p>
+            <p>The first beast is said to bee like a Lyon, to shew that they ought to be full of godly courage and boldnesse: The se<g ref="char:EOLhyphen"/>cond like a Calfe or Bul<g ref="char:EOLhyphen"/>locke used to the yoke, to shew that they ought
+<pb facs="tcp:21639:107"/>to be full of patience, and willing to take paines: The third had a face like a man, to shew that they ought not to be as beasts, without understanding, but men of wisedome, judgement and discreti<g ref="char:EOLhyphen"/>on: The fourth is said to be like to an Eagle, to shew that as an Eagle doth soare aloft, and flye very high, so they ought not to bee covetous and earthly minded, but to have their conversation in heaven; and to set their mindes on heaven and heavenly things.</p>
+            <p>Q 47. <hi>It is written in
+<pb facs="tcp:21639:107"/>the seventh verse, that when the foure beasts gave glory, honour, and thankes to him that sate on the Throne, the twen<g ref="char:EOLhyphen"/>ty foure Elders did fall downe before him that sate on the Throne to worship him, and did cast downe their crownes before the Throne, shew the meaning of that?</hi>
+            </p>
+            <p>A. The meaning is, that when (in the publike assembly) the minister doth either pray, or give thankes unto God, all the true worshippers of God doe then in heart joyne
+<pb facs="tcp:21639:108"/>with him, and (in ac<g ref="char:EOLhyphen"/>knowledgement of their unworthinesse) do hum<g ref="char:EOLhyphen"/>ble and cast down them<g ref="char:EOLhyphen"/>selves with holy reve<g ref="char:EOLhyphen"/>rence, humbly kneeling upon their knees, which is signified by casting downe their crownes.</p>
+            <p>Q. 48. <hi>It is written chap.</hi> 5.11.12. <hi>that many Angells were round a<g ref="char:EOLhyphen"/>bout the Throne, and a<g ref="char:EOLhyphen"/>bout the beasts and El<g ref="char:EOLhyphen"/>ders, why are the Angels said to bee round about the Throne?</hi>
+            </p>
+            <p>A. They are said to be round about the Throne
+<pb facs="tcp:21639:108"/>to shew that they are ready to attend and to o<g ref="char:EOLhyphen"/>bey the Commande<g ref="char:EOLhyphen"/>ments of the Lord Psal. 103.20. and round about the beasts and the Elders to shew, that they doe watch over the faithfull preachers and true wor<g ref="char:EOLhyphen"/>shippers of God. Psal. 34.7.</p>
+            <p>Q. 49. <hi>It is written chap.</hi> 5.6. <hi>that in the midst of the Throne, and of the foure beasts and Elders stood a Lamb, as though hee had beene kild?</hi>
+            </p>
+            <p>A. By the Lambe is meant our Saviour Christ
+<pb facs="tcp:21639:109"/>the standing of the Lamb in the middest of the Throne (where God the Father sitteth) sheweth that our Saviour Christ is equall with God the Father in glory, Majesty, dignitie and power, to rule and govern the true worshippers of God, and to defend and protect them from all enemies; the standing of the Lamb in the midst of the foure beasts and Elders, shew<g ref="char:EOLhyphen"/>eth that Christ is alwaies present with the true worshippers of God, both Minister and peo<g ref="char:EOLhyphen"/>ple, and hath a continu<g ref="char:EOLhyphen"/>all care of them, chap. 2.1
+<pb facs="tcp:21639:109"/>The standing of the Lamb before the throne, as though hee had beene slaine, sheweth that the death and sufferings of Christ, are alwayes in fresh and continuall me<g ref="char:EOLhyphen"/>morie with God, and that the continuall be<g ref="char:EOLhyphen"/>holding of Christ doth move God to shew con<g ref="char:EOLhyphen"/>tinuall mercie for his sake.</p>
+            <p>Q 50. <hi>It is written chap.</hi> 4.5. <hi>that there was seven lamps of fire bur<g ref="char:EOLhyphen"/>ning before the throne which are the seven spi<g ref="char:EOLhyphen"/>rits of God, shew the meaning of that place?</hi>
+            </p>
+            <pb facs="tcp:21639:110"/>
+            <p> A. By the seven lamps of fire wee are to under<g ref="char:EOLhyphen"/>stand the holy Ghost.</p>
+            <p>Q. 51. <hi>Why is the holy Ghost compared to lamps of fire burning?</hi>
+            </p>
+            <p>A. Because it doth en<g ref="char:EOLhyphen"/>lighten the hearts and minds of the true wor<g ref="char:EOLhyphen"/>shippers of God.</p>
+            <p>Q. 52. <hi>Why is the ho<g ref="char:EOLhyphen"/>ly Ghost compared to se<g ref="char:EOLhyphen"/>ven lamps?</hi>
+            </p>
+            <p>A. The number seven doth signifie fullnesse, or perfection, the holy Ghost is compared to se<g ref="char:EOLhyphen"/>ven lamps because of the fullnesse of light and sa<g ref="char:EOLhyphen"/>ving knowledge and
+<pb facs="tcp:21639:110"/>grace that it worketh in the true worshippers of God.</p>
+            <p>Q. 53. <hi>Why is the holy Ghost called the se<g ref="char:EOLhyphen"/>ven Spirits of God?</hi>
+            </p>
+            <p>A. It is called the se<g ref="char:EOLhyphen"/>ven spirits of God, be<g ref="char:EOLhyphen"/>cause of the manifold spirituall graces that it worketh in the true wor<g ref="char:EOLhyphen"/>shippers.</p>
+            <p>Q. 54. <hi>It is written that out of the Throne proceeded lightning and thundring, and voices, what is signified by the lightning and thun<g ref="char:EOLhyphen"/>dring?</hi>
+            </p>
+            <pb facs="tcp:21639:111"/>
+            <p> A. By the lightning and thundring is signifi<g ref="char:EOLhyphen"/>ed the powerful working of the holy Ghost in the hearts of the true wor<g ref="char:EOLhyphen"/>shippers, by the preach<g ref="char:EOLhyphen"/>ing of the law and of the Gospell.</p>
+            <p>Q. 55. <hi>VVhy is the preaching of the Law compared to Lightning?</hi>
+            </p>
+            <p>A. It is compared to Lightning, to shew that as when Lightning com<g ref="char:EOLhyphen"/>meth into a dark roome, it doth make things hid in darkenesse to be seene, so the preaching of the law by the illumination of the holy Ghost, doth
+<pb facs="tcp:21639:111"/>bring men that sit in darkenesse and shadow of death, to a sight of their sinnes, and of the wrath of God.</p>
+            <p>Q. 56. <hi>Why is the preaching of the Law compared to thundring?</hi>
+            </p>
+            <p>A. It is compared to thundering because it doth thunder out the wrath and judgement of God that shall come on them that live and die in their sinnes without true faith and repentance, and so stirreth up them that stand in doubt of any thing, and would be fur<g ref="char:EOLhyphen"/>ther satisfied to goe to
+<pb facs="tcp:21639:112"/>the preacher and speake unto him as the Jewes did to Saint Peter when they were pricked in their hearts, Act. 2.37.</p>
+            <p>Q. 57. <hi>What ought we to doe, when the pub<g ref="char:EOLhyphen"/>lique worship and ser<g ref="char:EOLhyphen"/>vice of God is ended?</hi>
+            </p>
+            <p>A. Wee ought then presently to thinke upon the goodnesse of God in bringing us together to worship him in peace and safety from all ene<g ref="char:EOLhyphen"/>mies, and to give him hearty thankes.</p>
+            <p>Wee ought then also to think upon our weak<g ref="char:EOLhyphen"/>nesse and failings in cal<g ref="char:EOLhyphen"/>ling
+<pb facs="tcp:21639:112"/>upon God, in singing the Psalmes, and in hark<g ref="char:EOLhyphen"/>ning unto Gods holy Word read and preach<g ref="char:EOLhyphen"/>ed unto us, and desire God for Christ his sake to forgive us.</p>
+            <p>Also in the way (as we are going home) from the Church, all children and servants, as well as parents and masters, ought to thinke upon the Word of God which was read and preached unto them, and meditate upon it while it is fresh in their memory.</p>
+            <p>Q. 58. <hi>What ought we to talke of on the Lords day?</hi>
+            </p>
+            <pb facs="tcp:21639:113"/>
+            <p> A. Our chiefe talke ought to be of God, and of his workes, and word, and to confer of it with them that feare God. Mal. 3.16. and with our Minister, if wee doubt of any thing, Mal. 2.7. and not suffer any corrupt communication to pro<g ref="char:EOLhyphen"/>ceed out of our mouthes, but such as may edifie and minister grace to the hearers. Eph. 4.29.</p>
+            <p>
+               <hi>Q.</hi> 59. <hi>Is merry tal<g ref="char:EOLhyphen"/>king, jesting, and sing<g ref="char:EOLhyphen"/>ing of merry songs a breach of the Lords day?</hi>
+            </p>
+            <p>A. Yes, not onely in him that useth it, but also
+<pb facs="tcp:21639:113"/>in others, because it cau<g ref="char:EOLhyphen"/>seth them to draw their minds from holy medi<g ref="char:EOLhyphen"/>tations to hearken there<g ref="char:EOLhyphen"/>unto.</p>
+            <p>
+               <hi>Q.</hi> 60. <hi>May not men reckon with their ser<g ref="char:EOLhyphen"/>vants or labourers, and pay them their wages, and appoint them their worke on the Lords day?</hi>
+            </p>
+            <p>A. No.</p>
+            <p>
+               <hi>Q.</hi> 61. <hi>To pay labou<g ref="char:EOLhyphen"/>rers their wages is an almes deed, and there<g ref="char:EOLhyphen"/>fore no breach of the Lords day?</hi>
+            </p>
+            <p>A Labourers wages is no Almes, but a debt due
+<pb facs="tcp:21639:114"/>as soone as they have done their worke Levit. 10.13. Deut. 24.15.</p>
+            <p>
+               <hi>Q.</hi> 65. <hi>What are the things that may be done on the Lords day?</hi>
+            </p>
+            <p>A. Every worke of mercy and urgent neces<g ref="char:EOLhyphen"/>sity, such as could not be prevented not deferred to another time, as to re<g ref="char:EOLhyphen"/>sist the invasions of ene<g ref="char:EOLhyphen"/>mies, or robberies, to quench the rage of fire, to dresse meat, but not to make great dinners, be<g ref="char:EOLhyphen"/>cause thereby men are made unfit for holy du<g ref="char:EOLhyphen"/>ties, and servants kept from going to Church.</p>
+            <pb facs="tcp:21639:114"/>
+            <p> Also to fodder Cat<g ref="char:EOLhyphen"/>tell, to pull a Sheep or any other living crea<g ref="char:EOLhyphen"/>ture out of a pit.</p>
+            <p>In these and the like cases of necessity, a man may labour, but not for wages.</p>
+            <p>Q. 61. <hi>May not the Poore worke, and so earn something on the Lords Day?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, for the Com<g ref="char:EOLhyphen"/>mandement is laid on the poore, as well as the rich</p>
+            <p>Q. 62. <hi>May not Chap<g ref="char:EOLhyphen"/>men, Higlers, and Car<g ref="char:EOLhyphen"/>riers, carry commodi<g ref="char:EOLhyphen"/>ties
+<pb facs="tcp:21639:115"/>out of the countrey into the City, and out of the City into the Coun<g ref="char:EOLhyphen"/>trey?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, for that were to preferre the service of the City and of the Country before the Ser<g ref="char:EOLhyphen"/>vice of God.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:21639:115"/>
+            <head>Certaine Notes and Markes of Sanctifying Grace, set downe by <hi>T. M.</hi> a godly Christi<g ref="char:EOLhyphen"/>an lately deceased, which he experimentally found in himself concerning his Salvation: and by his friend set forth here for the profit of others.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Have made <seg rend="sup">a</seg> choise of the true God to bee my <seg rend="sup">b</seg> God, and have endeavoured to the uttermost of my <seg rend="sup">c</seg> power, to know him and <seg rend="sup">d</seg> serve him, whatsoever others
+<pb facs="tcp:21639:116"/>have done to the contra<g ref="char:EOLhyphen"/>rv. <seg rend="sup">a</seg> Josh. 24.22. <seg rend="sup">b</seg> 1 Ru. 16. <seg rend="sup">c</seg> Gen. 31.6. <seg rend="sup">d</seg> 1. Chro. 28.9. Josh. 24.15.</p>
+            <p n="2">2 I doe finde <seg rend="sup">e</seg> that God of his great good<g ref="char:EOLhyphen"/>nesse hath <seg rend="sup">f</seg> wrought in me, an <seg rend="sup">g</seg> utter dislike of all ungodlines and propha<g ref="char:EOLhyphen"/>nesse, and it is matter <seg rend="sup">h</seg> of griefe and sorrow unto me to behold the unclean conversations of wicked men. <seg rend="sup">e</seg> Numb. 14.19. <seg rend="sup">f</seg> Isa. 26.2. <seg rend="sup">g</seg> Psalm. 119.104. Psal. 139.22. <seg rend="sup">h</seg> 2 Pet. 2.7.8. Psal. 119.136.</p>
+            <p n="3">3 <seg rend="sup">i</seg> Sorrow for my owne sins hath beene the greatest sorrow that ever befell me, and this hath
+<pb facs="tcp:21639:116"/>most touched mee, not onely when I felt the hand of God <seg rend="sup">k</seg> correcting of mee, but when I had some new experience of Gods <seg rend="sup">l</seg> goodnesse to me. <seg rend="sup">s</seg> Psal. 38.36.18. Psa. 31.9 <seg rend="sup">k</seg> Psal. 107.6. Psal. 39.11. <seg rend="sup">l</seg> Hos. 3.5, Rom. 2.4.</p>
+            <p n="4">4 When I had at any time sinned. I could not bee <seg rend="sup">m</seg> at rest, till I had <seg rend="sup">n</seg> humbled my selfe, and my <seg rend="sup">o</seg> soule had mourned in secret for the same <seg rend="sup">p</seg> confessing and <seg rend="sup">q</seg> bewai<g ref="char:EOLhyphen"/>ling my sinnes, crying mightily to God for <seg rend="sup">r</seg> pardon in the <seg rend="sup">s</seg> name and mediation of Jesus Christ, and with much
+<pb facs="tcp:21639:117"/>weaknesse <seg rend="sup">t</seg> beleeved the forgivenesse of my sins. <seg rend="sup">m</seg> Psal. 38.3. <seg rend="sup">n</seg> Lam. 3.10. <seg rend="sup">o</seg> Ier. 13.17. Nehem. 1.4. <seg rend="sup">p</seg> Dan. 9.4.5. <seg rend="sup">q</seg> Ier. 4.31. Psal. 142.1. Jonah 3.8. <seg rend="sup">r</seg> Psal. 25.11. <seg rend="sup">s</seg> Act. 5.31. <seg rend="sup">t</seg> Marke 9.24.</p>
+            <p n="5">5 My daily <seg rend="sup">u</seg> prayer to God is; to let mee more and more see my spiritu<g ref="char:EOLhyphen"/>all <seg rend="sup">vv</seg> poverty, that being indeed sensible thereof, I might <seg rend="sup">v</seg> above all things prize Jesus Christ, <seg rend="sup">x</seg> hun<g ref="char:EOLhyphen"/>gring and thirsting after him, and judging my selfe undone <seg rend="sup">y</seg> without him. <seg rend="sup">u</seg> 1 Ephes. 15.17. Rom. 7.18. <seg rend="sup">v</seg> Phil. 3.7, 8. <seg rend="sup">w</seg> 1 Pet. 2.7. <seg rend="sup">x</seg> Mat. 5.6.
+<pb facs="tcp:21639:117"/>Psal. 42.1. <seg rend="sup">y</seg> Ioh. 15.5, 6.</p>
+            <p n="6">6 I have much <seg rend="sup">z</seg> con<g ref="char:EOLhyphen"/>demned my selfe for my unbeliefe, and doe <seg rend="sup">a</seg> use the best meanes I can to <seg rend="sup">b</seg> strengthen my Faith, in applying Gods <seg rend="sup">c</seg> promi<g ref="char:EOLhyphen"/>ses which is the only <seg rend="sup">d</seg> e<g ref="char:EOLhyphen"/>vidence I can shew for heaven. <seg rend="sup">z</seg> 1 Cor. 11.31. Mark. 9.24. <seg rend="sup">a</seg> 2 Pet. 1.5, 10. <seg rend="sup">b</seg> 1 Pet. 5.10. <seg rend="sup">c</seg> 2 Cor. 1.20. 1 Iohn. 2.25. <seg rend="sup">d</seg> Heb. 11.1.</p>
+            <p n="7">7 I have <seg rend="sup">e</seg> so loved Gods house, and the <seg rend="sup">f</seg> sweetnesse that I found in the Ministry of the Word, that I have oft<g ref="char:EOLhyphen"/>times beene sorry, that I have judged them <hi>chappy
+<pb facs="tcp:21639:118"/>that remaine in Gods house for ever.</hi>
+               <seg rend="sup">e</seg> Psal. 84.2.10. Psa. 119.167. <seg rend="sup">f</seg> Psa. 19.10 <seg rend="sup">g</seg> Psal. 84.4.</p>
+            <p n="8">8 I have ever best ap<g ref="char:EOLhyphen"/>proved of such a <seg rend="sup">h</seg> Mini<g ref="char:EOLhyphen"/>ster as was most power<g ref="char:EOLhyphen"/>full against sin, and most frequent in letting a man <seg rend="sup">i</seg> see his corruptions <seg rend="sup">h</seg> 2 Cor. 3.6. Rom. 10.15. Psal. 116. <seg rend="sup">i</seg> Iob 13.23.</p>
+            <p n="9">9. I have <seg rend="sup">k</seg> resolved a<g ref="char:EOLhyphen"/>gainst all sinne, and have <seg rend="sup">l</seg> resigned my selfe up to the guidance of Gods Word and holy Spirit. <seg rend="sup">k</seg> Psa 17.3. Psa 119.101. <seg rend="sup">l</seg> Psal 119.105. Ier 3.4.</p>
+            <p n="10">10 My whole life is now a continuall <seg rend="sup">m</seg> War<g ref="char:EOLhyphen"/>fare,
+<pb facs="tcp:21639:118"/>daily striving and fighting and <seg rend="sup">n</seg> praying a<g ref="char:EOLhyphen"/>gainst, sometime one sin and sometimes another, according as <seg rend="sup">o</seg> Sathan hath assaulted me, from which warring against sinne, I have gathered an argument of my <seg rend="sup">p</seg>
+               <hi>Peace</hi> with God. <seg rend="sup">m</seg> 2 Cor. 10.3.4. Iam. 4 1. Eph 6.11.12 1 Tim. 1.18. <seg rend="sup">n</seg> Col. 1.9.11 <seg rend="sup">o</seg> Mat 4. <seg rend="sup">p</seg> 2 Tim. 4.7.8. Rom. 5.3 Rom. 8.6.</p>
+            <p n="11">11 Whatsoever pro<g ref="char:EOLhyphen"/>fitable instructions I have learned either by hearing or reading, I have de<g ref="char:EOLhyphen"/>lighted to make <seg rend="sup">q</seg> others partakers of them, but e<g ref="char:EOLhyphen"/>specially have I laboured
+<pb facs="tcp:21639:119"/>to <seg rend="sup">r</seg> instruct my own Fa<g ref="char:EOLhyphen"/>mily: and even <seg rend="sup">s</seg> beyond the ability of my owne weake body have I en<g ref="char:EOLhyphen"/>devoured the conversion and salvation of their soules, ever remembring the words of my blessed Saviour. Lu. 23.32. <hi>When thou art converted, streng<g ref="char:EOLhyphen"/>then thy brethren.</hi>
+               <seg rend="sup">q</seg> Psal. 51.13. Ehhes 3.6. Phil. 8.7. Heb. 3.2. 2 Pet. 1.4. <seg rend="sup">r</seg> Gen. 18.19. Josh. 24.15. Deut. 6.7. 1 Tim 3.4.5, 6. <seg rend="sup">s</seg> 2 Cor. 11.15.</p>
+            <p n="12">12 I doe <seg rend="sup">t</seg> unfainedly love every one, in whom Gods Image is renewed, and that for this very reason: Because the gra<g ref="char:EOLhyphen"/>ces
+<pb facs="tcp:21639:119"/>of Gods Spirit doe <seg rend="sup">u</seg> shine in them. <seg rend="sup">v</seg> All my de<g ref="char:EOLhyphen"/>light hath beene in them that excell in vertue; and I never thought my selfe better, then when I was hearing them, or <seg rend="sup">w</seg> spea<g ref="char:EOLhyphen"/>king with them of things concerning the King<g ref="char:EOLhyphen"/>dome of God; and this, though they were never so <seg rend="sup">a</seg>
+               <hi>Poore,</hi> in respect of their outward estate. Hence I gather that <seg rend="sup">y</seg> be<g ref="char:EOLhyphen"/>cause I love them that are begotten, I love him also that begat them: and if I love them for his sake, I love him more, for whose sake they are <hi>be<g ref="char:EOLhyphen"/>loved;</hi> I confesse I can<g ref="char:EOLhyphen"/>not
+<pb facs="tcp:21639:120"/>
+               <seg rend="sup">z</seg> prove my love by my obedience, which is full of imperfections, but yet my defire is to <seg rend="sup">a</seg> approve my heart unto God: and it is <seg rend="sup">b</seg> against my purpose and resoluti<g ref="char:EOLhyphen"/>on, when I doe any thing by which God is offen<g ref="char:EOLhyphen"/>ded. <seg rend="sup">t</seg> Psal. 16.3. 1 Iohn 4.7.11. Ephes. 2.14. Eph. 4.5.6. <seg rend="sup">u</seg> Phil. 2.13. <seg rend="sup">w</seg> Acts 1.3. <seg rend="sup">x</seg> Prov. 19.1. Iames. 2.5 <seg rend="sup">y</seg> 1 ep Ioh. 5.1.2. verse. <seg rend="sup">z</seg> 1 e<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Ioh. 5.2.3. <seg rend="sup">a</seg> Phil. 1.10. 2 Cor. 7.11. <seg rend="sup">b</seg> Rom. 7.19.20, 21, 22.</p>
+            <p n="23">23 When it pleased God at sometime to <seg rend="sup">c</seg> hide his face from me,
+<pb facs="tcp:21639:120"/>and to with-hold the light of his countenance, when I could not so sen<g ref="char:EOLhyphen"/>sibly enjoy <seg rend="sup">d</seg> his comfor<g ref="char:EOLhyphen"/>table presence, it was ve<g ref="char:EOLhyphen"/>ry <seg rend="sup">e</seg> grievous unto mee, and during that time <seg rend="sup">f</seg> I esteemed my life no bet<g ref="char:EOLhyphen"/>ter than death. Oh, how dolefull and uncomfor<g ref="char:EOLhyphen"/>table were those dayes, when the Sonne of righ<g ref="char:EOLhyphen"/>teousnesse did not shine upon me, which <seg rend="sup">g</seg> made my heart to pant after God, and my very soule to thirst after him, <hi>as the Hart after the rivers of waters.</hi> Yea <seg rend="sup">b</seg> I sought him with teares, and gave not over crying af<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:21639:121"/>him, <hi>untill I had found him whom my soule loved.</hi>
+               <seg rend="sup">c</seg> Psal. 30.5.7. Psal. 13.1. Psal. 69.17. Psal. 89.46. <seg rend="sup">d</seg> Psal. 16.11. 1 Chron. 16.27. <seg rend="sup">e</seg> Psal. 77.7, 8, 9. <seg rend="sup">f</seg> Job 7.15. Job 10.4. Jere. 8.3. <seg rend="sup">g</seg> Psalm. 42.1. <seg rend="sup">h</seg> Canticles. 3.4. Luke 2.48.</p>
+            <p n="14">14. When it pleased him to <seg rend="sup">i</seg> turne his face to<g ref="char:EOLhyphen"/>wards me againe, and <seg rend="sup">k</seg> shined upon me with the light of his countenance, when my heart was at any time warmed with the beames of this Sun, as many times it was, both in the <seg rend="sup">l</seg> Ministery of the Word, as also by
+<pb facs="tcp:21639:121"/>reading, prayer, and me<g ref="char:EOLhyphen"/>ditation; Oh! how was my frozen <seg rend="sup">m</seg> heart thaw<g ref="char:EOLhyphen"/>ed into teares, and my disconsolate soule re<g ref="char:EOLhyphen"/>freshed as with <seg rend="sup">n</seg> flagons of wine out Gods of Cel<g ref="char:EOLhyphen"/>ler, then did hee <seg rend="sup">o</seg> put more joy into my heart then other men had, <hi>when their Corne, and Wine and Oyle increased.</hi>
+               <seg rend="sup">l</seg> Mic. 7.18, 19. Jer. 12.15. <seg rend="sup">k</seg> Psal. 4. Esa. 54.7, 8. Esa. 12.1, 2. <seg rend="sup">l</seg> Psal. 119.14, 15, 16, 32, 15, 72, 97. <seg rend="sup">m</seg> Psal. 32.3. <seg rend="sup">n</seg> Cant. 1.2. Cantic. 2.4, 5. <seg rend="sup">o</seg> Psal. 4.</p>
+            <p n="15">15. I have more <seg rend="sup">p</seg> groned under sinne, then
+<pb facs="tcp:21639:122"/>under Sicknesse: Nay, oft-times, I have even <seg rend="sup">q</seg> rejoyced, when by affli<g ref="char:EOLhyphen"/>ctions, God had <seg rend="sup">r</seg> hedged up my way, and not on<g ref="char:EOLhyphen"/>ly deprived mee of op<g ref="char:EOLhyphen"/>portunity: but also of will to sinne, to which I found my selfe very <seg rend="sup">s</seg> enclinable before the afliction came, and have ever thought my selfe as much bound to God for <seg rend="sup">t</seg> keeping me from Sinne, as for pardoning of Sinne committed.</p>
+            <p>
+               <seg rend="sup">p</seg> Psal. 101.6. Psal. 38.9. Psal. 6.6. Rom. 5.3. <seg rend="sup">q</seg> 1 Col. 24. Acts 5.41. 2 Cor. 6.10. Psal. 119.67. <seg rend="sup">r</seg> Lam. 3.7. Hosea 2.6.
+<pb facs="tcp:21639:122"/>
+               <seg rend="sup">s</seg> Psal. 119.71. <seg rend="sup">t</seg> I Samael. 25.32, 33, 34. verses.</p>
+            <p>
+               <hi>These Notes may comfort mee, and all the Glory be given unto God that hath begun a good worke in mee: but I utterly disclaime both this, and all else that is good in me, and cast my selfe wholly upon the mercy of my God, and the merits of my Savi<g ref="char:EOLhyphen"/>our, for the salvation of my soule and body.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:21639:123"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Tho. Wykes.</signed>
+               <dateline>
+                  <date>
+                     <hi>February</hi> 25. 1639.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:21639:123"/>
+         </div>
+      </back>
+   </text>
+</TEI>
